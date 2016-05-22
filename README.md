@@ -10,6 +10,12 @@ Introduction
 This sample demonstrates how you can use registered fingerprints in your app to authenticate the user
 before proceeding some actions such as purchasing an item.
 
+
+How to use: 
+    1. setting -> security -> fingerprint -> add  a new fingerprint (mighty be buggy, need debug, as you have to set a new FP per test)
+    2. ... columne on right -> Extended controls -> fingerprint -> user input from here 
+
+
 First you need to create a symmetric key in the Android Key Store using [KeyGenerator][1]
 which can be only be used after the user has authenticated with fingerprint and pass
 a [KeyGenParameterSpec][2].
