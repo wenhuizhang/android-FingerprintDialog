@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/wenhui/Downloads/android-FingerprintDialog/Application/build/intermediates/res/merged/debug/drawable/card.xml",
+        "source": "/home/wenhui/Downloads/android-FingerprintDialog/Application/src/main/res/drawable/card.xml"
+    },
+    {
+        "merged": "/home/wenhui/Downloads/android-FingerprintDialog/Application/build/intermediates/res/merged/debug/drawable/ic_fingerprint_error.xml",
+        "source": "/home/wenhui/Downloads/android-FingerprintDialog/Application/src/main/res/drawable/ic_fingerprint_error.xml"
+    },
+    {
+        "merged": "/home/wenhui/Downloads/android-FingerprintDialog/Application/build/intermediates/res/merged/debug/drawable/ic_fingerprint_success.xml",
+        "source": "/home/wenhui/Downloads/android-FingerprintDialog/Application/src/main/res/drawable/ic_fingerprint_success.xml"
+    }
+]
