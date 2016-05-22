@@ -19,7 +19,7 @@
         jar="/home/wenhui/Downloads/android-FingerprintDialog/Application/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
         jumboMode="true"
         revision="23.0.1"
-        sha1="b995b34140815e249d703baa92b194e39d3f91f9">
+        sha1="a746d1b4b71b1dba50f441bad343ec07d0c5c5b8">
         <dex dex="/home/wenhui/Downloads/android-FingerprintDialog/Application/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_ff553f15fa83d80eb0eb48e186c0ccb61f27fa6a/classes.dex" />
     </item>
     <item
@@ -75,7 +75,7 @@
         jar="/home/wenhui/Downloads/android-FingerprintDialog/Application/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
         jumboMode="true"
         revision="23.0.1"
-        sha1="668a3d097b84de7008b756e7a2e2e522f43585ac">
+        sha1="ac5e78a91cf419dbd80ad0d6d6140088c4bc33aa">
         <dex dex="/home/wenhui/Downloads/android-FingerprintDialog/Application/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_b98d6e77529206385cd8d63967270bf545ad3586/classes.dex" />
     </item>
     <item

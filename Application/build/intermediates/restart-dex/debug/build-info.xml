@@ -4,7 +4,7 @@
     api-level="23"
     density="560dpi"
     format="7"
-    timestamp="192549695558674" >
+    timestamp="195315478732205" >
 
     <task
         name="javac"
@@ -19,11 +19,11 @@
         name="verifier"
         duration="0" />
 
-    <build timestamp="192104597222082" >
+    <build timestamp="195249692698940" >
         <artifact
             location="/home/wenhui/Downloads/android-FingerprintDialog/Application/build/outputs/apk/Application-debug.apk"
             type="MAIN" />
     </build>
-    <build timestamp="192549695558674" />
+    <build timestamp="195315478732205" />
 
 </instant-run>
