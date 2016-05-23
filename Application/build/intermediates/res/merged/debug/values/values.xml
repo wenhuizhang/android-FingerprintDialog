@@ -19,7 +19,7 @@
     <dimen name="margin_tiny">4dp</dimen>
     <dimen name="vertical_page_margin">@dimen/margin_medium</dimen>
     <string name="action_settings">Settings</string>
-    <string name="app_name">Fingerprint Dialog Sample</string>
+    <string name="app_name">NDSS paper Test</string>
     <string name="cancel">Cancel</string>
     <string name="fingerprint_description">Confirm fingerprint to continue</string>
     <string name="fingerprint_hint">Touch sensor</string>
@@ -29,21 +29,23 @@
         
         
             
-This sample demonstrates how you can use registered fingerprints to authenticate the user
-before proceeding some actions such as purchasing an item.
+This sample demonstrates and supports NDSS 17 paper of registered fingerprints and location requesting experiments.
             
         
         
     </string>
-    <string name="item_description">Mesh backpack in white. Black textile trim throughout.</string>
-    <string name="item_price">$62.68</string>
-    <string name="item_title">White Mesh Pluto Backpack</string>
+    <string name="item_description_0">Fingerprint Service Request Test : This is a </string>
+    <string name="item_description_1">Location Service Request Test: This is a </string>
+    <string name="item_price">Wenhui Zhang, Le Guan, Peng Liu</string>
+    <string name="item_title_0">Fingerprint Service Request Test</string>
+    <string name="item_title_1">Location Service Request Test</string>
     <string name="new_fingerprint_enrolled_description">A new fingerprint was added to this device, so your password is required.</string>
     <string name="ok">Ok</string>
     <string name="password">Password</string>
     <string name="password_description">Enter your store password to continue</string>
-    <string name="purchase">Purchase</string>
-    <string name="purchase_done">Purchase successful</string>
+    <string name="purchase_done">Request Successful</string>
+    <string name="request_0">Request</string>
+    <string name="request_1">Request</string>
     <string name="sign_in">Sign in</string>
     <string name="use_fingerprint_in_future">Use fingerprint in the future</string>
     <string name="use_fingerprint_to_authenticate_key">use_fingerprint_to_authenticate_key</string>

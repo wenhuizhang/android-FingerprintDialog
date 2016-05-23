@@ -145,24 +145,25 @@ containing a value of this type.
         public static final int tile=0x7f020005;
     }
     public static final class id {
-        public static final int action_settings=0x7f0b0011;
-        public static final int backup_container=0x7f0b0003;
-        public static final int buttonPanel=0x7f0b0009;
-        public static final int cancel_button=0x7f0b000b;
-        public static final int confirmation_message=0x7f0b0001;
-        public static final int description=0x7f0b0004;
-        public static final int encrypted_message=0x7f0b0002;
-        public static final int fingerprint_container=0x7f0b000d;
-        public static final int fingerprint_description=0x7f0b000e;
-        public static final int fingerprint_icon=0x7f0b000f;
-        public static final int fingerprint_status=0x7f0b0010;
-        public static final int new_fingerprint_enrolled_description=0x7f0b0006;
-        public static final int password=0x7f0b0007;
-        public static final int password_description=0x7f0b0005;
-        public static final int purchase_button=0x7f0b0000;
-        public static final int second_dialog_button=0x7f0b000c;
-        public static final int spacer=0x7f0b000a;
-        public static final int use_fingerprint_in_future_check=0x7f0b0008;
+        public static final int action_settings=0x7f0b0012;
+        public static final int backup_container=0x7f0b0004;
+        public static final int buttonPanel=0x7f0b000a;
+        public static final int button_0=0x7f0b0000;
+        public static final int button_1=0x7f0b0001;
+        public static final int cancel_button=0x7f0b000c;
+        public static final int confirmation_message=0x7f0b0002;
+        public static final int description=0x7f0b0005;
+        public static final int encrypted_message=0x7f0b0003;
+        public static final int fingerprint_container=0x7f0b000e;
+        public static final int fingerprint_description=0x7f0b000f;
+        public static final int fingerprint_icon=0x7f0b0010;
+        public static final int fingerprint_status=0x7f0b0011;
+        public static final int new_fingerprint_enrolled_description=0x7f0b0007;
+        public static final int password=0x7f0b0008;
+        public static final int password_description=0x7f0b0006;
+        public static final int second_dialog_button=0x7f0b000d;
+        public static final int spacer=0x7f0b000b;
+        public static final int use_fingerprint_in_future_check=0x7f0b0009;
     }
     public static final class layout {
         public static final int activity_main=0x7f040000;
@@ -185,20 +186,23 @@ containing a value of this type.
         public static final int fingerprint_not_recognized=0x7f090005;
         public static final int fingerprint_success=0x7f090006;
         public static final int intro_message=0x7f090007;
-        public static final int item_description=0x7f090008;
-        public static final int item_price=0x7f090009;
-        public static final int item_title=0x7f09000a;
-        public static final int new_fingerprint_enrolled_description=0x7f09000b;
-        public static final int ok=0x7f09000c;
-        public static final int password=0x7f09000d;
-        public static final int password_description=0x7f09000e;
-        public static final int purchase=0x7f09000f;
-        public static final int purchase_done=0x7f090010;
-        public static final int sign_in=0x7f090011;
-        public static final int use_fingerprint_in_future=0x7f090012;
-        public static final int use_fingerprint_to_authenticate_key=0x7f090013;
-        public static final int use_fingerprint_to_authenticate_title=0x7f090014;
-        public static final int use_password=0x7f090015;
+        public static final int item_description_0=0x7f090008;
+        public static final int item_description_1=0x7f090009;
+        public static final int item_price=0x7f09000a;
+        public static final int item_title_0=0x7f09000b;
+        public static final int item_title_1=0x7f09000c;
+        public static final int new_fingerprint_enrolled_description=0x7f09000d;
+        public static final int ok=0x7f09000e;
+        public static final int password=0x7f09000f;
+        public static final int password_description=0x7f090010;
+        public static final int purchase_done=0x7f090011;
+        public static final int request_0=0x7f090012;
+        public static final int request_1=0x7f090013;
+        public static final int sign_in=0x7f090014;
+        public static final int use_fingerprint_in_future=0x7f090015;
+        public static final int use_fingerprint_to_authenticate_key=0x7f090016;
+        public static final int use_fingerprint_to_authenticate_title=0x7f090017;
+        public static final int use_password=0x7f090018;
     }
     public static final class style {
         public static final int AppTheme=0x7f070002;

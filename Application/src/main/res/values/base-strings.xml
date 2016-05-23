@@ -16,13 +16,12 @@
 -->
 
 <resources>
-    <string name="app_name">Fingerprint Dialog Sample</string>
+    <string name="app_name">NDSS paper Test</string>
     <string name="intro_message">
         <![CDATA[
         
             
-This sample demonstrates how you can use registered fingerprints to authenticate the user
-before proceeding some actions such as purchasing an item.
+This sample demonstrates and supports NDSS 17 paper of registered fingerprints and location requesting experiments.
             
         
         ]]>

@@ -4,26 +4,43 @@
     api-level="23"
     density="560dpi"
     format="7"
-    timestamp="195315478732205" >
+    timestamp="214326163020587"
+    verifier="R_CLASS_CHANGE" >
 
     <task
         name="javac"
-        duration="0" />
+        duration="228" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="0" />
+        duration="45" />
     <task
         name="verifier"
-        duration="0" />
+        duration="2" />
 
-    <build timestamp="195249692698940" >
+    <artifact
+        location="/home/wenhui/Downloads/android-FingerprintDialog/Application/build/intermediates/res/resources-debug.ap_"
+        type="RESOURCES" />
+    <artifact
+        location="/home/wenhui/Downloads/android-FingerprintDialog/Application/build/intermediates/transforms/dex/debug/folders/1000/5/slice_4/classes.dex"
+        type="DEX" />
+
+    <build timestamp="212415348847579" >
         <artifact
             location="/home/wenhui/Downloads/android-FingerprintDialog/Application/build/outputs/apk/Application-debug.apk"
             type="MAIN" />
     </build>
-    <build timestamp="195315478732205" />
+    <build
+        timestamp="214326163020587"
+        verifier="R_CLASS_CHANGE" >
+        <artifact
+            location="/home/wenhui/Downloads/android-FingerprintDialog/Application/build/intermediates/res/resources-debug.ap_"
+            type="RESOURCES" />
+        <artifact
+            location="/home/wenhui/Downloads/android-FingerprintDialog/Application/build/intermediates/transforms/dex/debug/folders/1000/5/slice_4/classes.dex"
+            type="DEX" />
+    </build>
 
 </instant-run>

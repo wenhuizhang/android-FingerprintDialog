@@ -1,5 +1,5 @@
 
-Android Fingerprint Dialog Sample Sample
+Fingerprint and Location Sample
 ===================================
 
 A sample that demonstrates to use registered fingerprints to authenticate the user in your app

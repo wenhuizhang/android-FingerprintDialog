@@ -78,7 +78,7 @@ public class MainActivity extends Activity {
         ((InjectedApplication) getApplication()).inject(this);
 
         setContentView(R.layout.activity_main);
-        Button purchaseButton = (Button) findViewById(R.id.purchase_button);
+        Button purchaseButton = (Button) findViewById(R.id.button_0);
         if (!mKeyguardManager.isKeyguardSecure()) {
             // Show a message that the user hasn't set up a fingerprint or lock screen.
             Toast.makeText(this,

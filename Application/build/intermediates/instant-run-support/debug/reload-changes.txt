@@ -1,0 +1,12 @@
+CHANGED,/home/wenhui/Downloads/android-FingerprintDialog/Application/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/example/android/fingerprintdialog/R$string$override.class
+CHANGED,/home/wenhui/Downloads/android-FingerprintDialog/Application/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/example/android/fingerprintdialog/R$mipmap$override.class
+CHANGED,/home/wenhui/Downloads/android-FingerprintDialog/Application/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/example/android/fingerprintdialog/R$xml$override.class
+CHANGED,/home/wenhui/Downloads/android-FingerprintDialog/Application/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/example/android/fingerprintdialog/R$styleable$override.class
+CHANGED,/home/wenhui/Downloads/android-FingerprintDialog/Application/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/example/android/fingerprintdialog/R$id$override.class
+CHANGED,/home/wenhui/Downloads/android-FingerprintDialog/Application/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/example/android/fingerprintdialog/R$layout$override.class
+CHANGED,/home/wenhui/Downloads/android-FingerprintDialog/Application/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/example/android/fingerprintdialog/R$style$override.class
+CHANGED,/home/wenhui/Downloads/android-FingerprintDialog/Application/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/example/android/fingerprintdialog/MainActivity$override.class
+CHANGED,/home/wenhui/Downloads/android-FingerprintDialog/Application/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/android/tools/fd/runtime/AppPatchesLoaderImpl.class
+CHANGED,/home/wenhui/Downloads/android-FingerprintDialog/Application/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/example/android/fingerprintdialog/R$menu$override.class
+CHANGED,/home/wenhui/Downloads/android-FingerprintDialog/Application/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/example/android/fingerprintdialog/MainActivity$1$override.class
+CHANGED,/home/wenhui/Downloads/android-FingerprintDialog/Application/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/example/android/fingerprintdialog/FingerprintAuthenticationDialogFragment$override.class
