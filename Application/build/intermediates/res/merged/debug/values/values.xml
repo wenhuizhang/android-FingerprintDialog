@@ -34,8 +34,9 @@ This sample demonstrates and supports NDSS 17 paper of registered fingerprints a
         
         
     </string>
-    <string name="item_description_0">Fingerprint Service Request Test : This is a </string>
-    <string name="item_description_1">Location Service Request Test: This is a </string>
+    <string name="item_description_0">Fingerprint Service Request Test:\n\n It starts listening to a fingerprint on the fingerprint sensor by calling
+FingerprintManager.authenticate with a Cipher or fall back to server-side verified password as an authenticator. </string>
+    <string name="item_description_1">Location Service Request Test:\n\n This is a </string>
     <string name="item_price">Wenhui Zhang, Le Guan, Peng Liu</string>
     <string name="item_title_0">Fingerprint Service Request Test</string>
     <string name="item_title_1">Location Service Request Test</string>

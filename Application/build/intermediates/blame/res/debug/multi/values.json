@@ -308,51 +308,40 @@
                     "startLine": 36,
                     "startColumn": 4,
                     "startOffset": 2274,
-                    "endColumn": 92,
-                    "endOffset": 2362
+                    "endLine": 37,
+                    "endColumn": 122,
+                    "endOffset": 2542
                 },
                 "from": {
                     "file": "/home/wenhui/Downloads/android-FingerprintDialog/Application/src/main/res/values/strings.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 37,
-                    "startColumn": 4,
-                    "startOffset": 2367,
-                    "endColumn": 88,
-                    "endOffset": 2451
-                },
-                "from": {
-                    "file": "/home/wenhui/Downloads/android-FingerprintDialog/Application/src/main/res/values/strings.xml",
-                    "position": {
-                        "startLine": 34,
-                        "startColumn": 4,
-                        "startOffset": 1758,
-                        "endColumn": 88,
-                        "endOffset": 1842
-                    }
                 }
             },
             {
                 "to": {
                     "startLine": 38,
                     "startColumn": 4,
-                    "startOffset": 2456,
-                    "endColumn": 70,
-                    "endOffset": 2522
+                    "startOffset": 2547,
+                    "endColumn": 92,
+                    "endOffset": 2635
                 },
                 "from": {
-                    "file": "/home/wenhui/Downloads/android-FingerprintDialog/Application/src/main/res/values/strings.xml"
+                    "file": "/home/wenhui/Downloads/android-FingerprintDialog/Application/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 35,
+                        "startColumn": 4,
+                        "startOffset": 1938,
+                        "endColumn": 92,
+                        "endOffset": 2026
+                    }
                 }
             },
             {
                 "to": {
                     "startLine": 39,
                     "startColumn": 4,
-                    "startOffset": 2527,
-                    "endColumn": 73,
-                    "endOffset": 2596
+                    "startOffset": 2640,
+                    "endColumn": 70,
+                    "endOffset": 2706
                 },
                 "from": {
                     "file": "/home/wenhui/Downloads/android-FingerprintDialog/Application/src/main/res/values/strings.xml"
@@ -362,9 +351,9 @@
                 "to": {
                     "startLine": 40,
                     "startColumn": 4,
-                    "startOffset": 2601,
-                    "endColumn": 70,
-                    "endOffset": 2667
+                    "startOffset": 2711,
+                    "endColumn": 73,
+                    "endOffset": 2780
                 },
                 "from": {
                     "file": "/home/wenhui/Downloads/android-FingerprintDialog/Application/src/main/res/values/strings.xml"
@@ -374,9 +363,9 @@
                 "to": {
                     "startLine": 41,
                     "startColumn": 4,
-                    "startOffset": 2672,
-                    "endColumn": 138,
-                    "endOffset": 2806
+                    "startOffset": 2785,
+                    "endColumn": 70,
+                    "endOffset": 2851
                 },
                 "from": {
                     "file": "/home/wenhui/Downloads/android-FingerprintDialog/Application/src/main/res/values/strings.xml"
@@ -386,9 +375,9 @@
                 "to": {
                     "startLine": 42,
                     "startColumn": 4,
-                    "startOffset": 2811,
-                    "endColumn": 33,
-                    "endOffset": 2840
+                    "startOffset": 2856,
+                    "endColumn": 138,
+                    "endOffset": 2990
                 },
                 "from": {
                     "file": "/home/wenhui/Downloads/android-FingerprintDialog/Application/src/main/res/values/strings.xml"
@@ -398,9 +387,9 @@
                 "to": {
                     "startLine": 43,
                     "startColumn": 4,
-                    "startOffset": 2845,
-                    "endColumn": 45,
-                    "endOffset": 2886
+                    "startOffset": 2995,
+                    "endColumn": 33,
+                    "endOffset": 3024
                 },
                 "from": {
                     "file": "/home/wenhui/Downloads/android-FingerprintDialog/Application/src/main/res/values/strings.xml"
@@ -410,9 +399,9 @@
                 "to": {
                     "startLine": 44,
                     "startColumn": 4,
-                    "startOffset": 2891,
-                    "endColumn": 86,
-                    "endOffset": 2973
+                    "startOffset": 3029,
+                    "endColumn": 45,
+                    "endOffset": 3070
                 },
                 "from": {
                     "file": "/home/wenhui/Downloads/android-FingerprintDialog/Application/src/main/res/values/strings.xml"
@@ -422,9 +411,9 @@
                 "to": {
                     "startLine": 45,
                     "startColumn": 4,
-                    "startOffset": 2978,
-                    "endColumn": 60,
-                    "endOffset": 3034
+                    "startOffset": 3075,
+                    "endColumn": 86,
+                    "endOffset": 3157
                 },
                 "from": {
                     "file": "/home/wenhui/Downloads/android-FingerprintDialog/Application/src/main/res/values/strings.xml"
@@ -434,9 +423,9 @@
                 "to": {
                     "startLine": 46,
                     "startColumn": 4,
-                    "startOffset": 3039,
-                    "endColumn": 45,
-                    "endOffset": 3080
+                    "startOffset": 3162,
+                    "endColumn": 60,
+                    "endOffset": 3218
                 },
                 "from": {
                     "file": "/home/wenhui/Downloads/android-FingerprintDialog/Application/src/main/res/values/strings.xml"
@@ -446,9 +435,9 @@
                 "to": {
                     "startLine": 47,
                     "startColumn": 4,
-                    "startOffset": 3085,
+                    "startOffset": 3223,
                     "endColumn": 45,
-                    "endOffset": 3126
+                    "endOffset": 3264
                 },
                 "from": {
                     "file": "/home/wenhui/Downloads/android-FingerprintDialog/Application/src/main/res/values/strings.xml"
@@ -458,9 +447,9 @@
                 "to": {
                     "startLine": 48,
                     "startColumn": 4,
-                    "startOffset": 3131,
-                    "endColumn": 43,
-                    "endOffset": 3170
+                    "startOffset": 3269,
+                    "endColumn": 45,
+                    "endOffset": 3310
                 },
                 "from": {
                     "file": "/home/wenhui/Downloads/android-FingerprintDialog/Application/src/main/res/values/strings.xml"
@@ -470,9 +459,9 @@
                 "to": {
                     "startLine": 49,
                     "startColumn": 4,
-                    "startOffset": 3175,
-                    "endColumn": 83,
-                    "endOffset": 3254
+                    "startOffset": 3315,
+                    "endColumn": 43,
+                    "endOffset": 3354
                 },
                 "from": {
                     "file": "/home/wenhui/Downloads/android-FingerprintDialog/Application/src/main/res/values/strings.xml"
@@ -482,9 +471,9 @@
                 "to": {
                     "startLine": 50,
                     "startColumn": 4,
-                    "startOffset": 3259,
-                    "endColumn": 99,
-                    "endOffset": 3354
+                    "startOffset": 3359,
+                    "endColumn": 83,
+                    "endOffset": 3438
                 },
                 "from": {
                     "file": "/home/wenhui/Downloads/android-FingerprintDialog/Application/src/main/res/values/strings.xml"
@@ -494,9 +483,9 @@
                 "to": {
                     "startLine": 51,
                     "startColumn": 4,
-                    "startOffset": 3359,
-                    "endColumn": 97,
-                    "endOffset": 3452
+                    "startOffset": 3443,
+                    "endColumn": 99,
+                    "endOffset": 3538
                 },
                 "from": {
                     "file": "/home/wenhui/Downloads/android-FingerprintDialog/Application/src/main/res/values/strings.xml"
@@ -506,9 +495,9 @@
                 "to": {
                     "startLine": 52,
                     "startColumn": 4,
-                    "startOffset": 3457,
-                    "endColumn": 53,
-                    "endOffset": 3506
+                    "startOffset": 3543,
+                    "endColumn": 97,
+                    "endOffset": 3636
                 },
                 "from": {
                     "file": "/home/wenhui/Downloads/android-FingerprintDialog/Application/src/main/res/values/strings.xml"
@@ -518,60 +507,21 @@
                 "to": {
                     "startLine": 53,
                     "startColumn": 4,
-                    "startOffset": 3511,
-                    "endColumn": 50,
-                    "endOffset": 3557
+                    "startOffset": 3641,
+                    "endColumn": 53,
+                    "endOffset": 3690
                 },
                 "from": {
-                    "file": "/home/wenhui/Downloads/android-FingerprintDialog/Application/src/main/res/values/template-styles.xml"
+                    "file": "/home/wenhui/Downloads/android-FingerprintDialog/Application/src/main/res/values/strings.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 54,
                     "startColumn": 4,
-                    "startOffset": 3562,
-                    "endLine": 61,
-                    "endColumn": 12,
-                    "endOffset": 4023
-                },
-                "from": {
-                    "file": "/home/wenhui/Downloads/android-FingerprintDialog/Application/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.0.0/res/values/values.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 62,
-                    "startColumn": 4,
-                    "startOffset": 4028,
-                    "endLine": 64,
-                    "endColumn": 12,
-                    "endOffset": 4149
-                },
-                "from": {
-                    "file": "/home/wenhui/Downloads/android-FingerprintDialog/Application/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.0.0/res/values/values.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 65,
-                    "startColumn": 4,
-                    "startOffset": 4154,
-                    "endLine": 67,
-                    "endColumn": 12,
-                    "endOffset": 4277
-                },
-                "from": {
-                    "file": "/home/wenhui/Downloads/android-FingerprintDialog/Application/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.0.0/res/values/values.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 68,
-                    "startColumn": 4,
-                    "startOffset": 4282,
-                    "endColumn": 59,
-                    "endOffset": 4337
+                    "startOffset": 3695,
+                    "endColumn": 50,
+                    "endOffset": 3741
                 },
                 "from": {
                     "file": "/home/wenhui/Downloads/android-FingerprintDialog/Application/src/main/res/values/template-styles.xml"
@@ -579,11 +529,50 @@
             },
             {
                 "to": {
+                    "startLine": 55,
+                    "startColumn": 4,
+                    "startOffset": 3746,
+                    "endLine": 62,
+                    "endColumn": 12,
+                    "endOffset": 4207
+                },
+                "from": {
+                    "file": "/home/wenhui/Downloads/android-FingerprintDialog/Application/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.0.0/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 63,
+                    "startColumn": 4,
+                    "startOffset": 4212,
+                    "endLine": 65,
+                    "endColumn": 12,
+                    "endOffset": 4333
+                },
+                "from": {
+                    "file": "/home/wenhui/Downloads/android-FingerprintDialog/Application/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.0.0/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 66,
+                    "startColumn": 4,
+                    "startOffset": 4338,
+                    "endLine": 68,
+                    "endColumn": 12,
+                    "endOffset": 4461
+                },
+                "from": {
+                    "file": "/home/wenhui/Downloads/android-FingerprintDialog/Application/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.0.0/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
                     "startLine": 69,
                     "startColumn": 4,
-                    "startOffset": 4342,
-                    "endColumn": 52,
-                    "endOffset": 4390
+                    "startOffset": 4466,
+                    "endColumn": 59,
+                    "endOffset": 4521
                 },
                 "from": {
                     "file": "/home/wenhui/Downloads/android-FingerprintDialog/Application/src/main/res/values/template-styles.xml"
@@ -593,9 +582,9 @@
                 "to": {
                     "startLine": 70,
                     "startColumn": 4,
-                    "startOffset": 4395,
-                    "endColumn": 26,
-                    "endOffset": 4417
+                    "startOffset": 4526,
+                    "endColumn": 52,
+                    "endOffset": 4574
                 },
                 "from": {
                     "file": "/home/wenhui/Downloads/android-FingerprintDialog/Application/src/main/res/values/template-styles.xml"
@@ -605,10 +594,9 @@
                 "to": {
                     "startLine": 71,
                     "startColumn": 4,
-                    "startOffset": 4422,
-                    "endLine": 74,
-                    "endColumn": 12,
-                    "endOffset": 4613
+                    "startOffset": 4579,
+                    "endColumn": 26,
+                    "endOffset": 4601
                 },
                 "from": {
                     "file": "/home/wenhui/Downloads/android-FingerprintDialog/Application/src/main/res/values/template-styles.xml"
@@ -616,12 +604,25 @@
             },
             {
                 "to": {
-                    "startLine": 75,
+                    "startLine": 72,
                     "startColumn": 4,
-                    "startOffset": 4618,
-                    "endLine": 80,
+                    "startOffset": 4606,
+                    "endLine": 75,
                     "endColumn": 12,
-                    "endOffset": 4891
+                    "endOffset": 4797
+                },
+                "from": {
+                    "file": "/home/wenhui/Downloads/android-FingerprintDialog/Application/src/main/res/values/template-styles.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 76,
+                    "startColumn": 4,
+                    "startOffset": 4802,
+                    "endLine": 81,
+                    "endColumn": 12,
+                    "endOffset": 5075
                 },
                 "from": {
                     "file": "/home/wenhui/Downloads/android-FingerprintDialog/Application/src/main/res/values/template-styles.xml"
