@@ -79,6 +79,13 @@ public class MainActivity extends Activity {
 
         setContentView(R.layout.activity_main);
         Button purchaseButton = (Button) findViewById(R.id.button_0);
+
+        Button requestLocationButton = (Button) findViewById(R.id.button_1);
+        requestLocationButton.setEnabled(true);
+        
+
+
+
         if (!mKeyguardManager.isKeyguardSecure()) {
             // Show a message that the user hasn't set up a fingerprint or lock screen.
             Toast.makeText(this,
@@ -136,6 +143,7 @@ public class MainActivity extends Activity {
                 }
             }
         });
+
     }
 
     /**

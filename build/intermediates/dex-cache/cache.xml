@@ -1,2 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
-<items version="2" />
+<items version="2" >
+
+    <item
+        jar="/home/wenhui/Downloads/android-FingerprintDialog/Application/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="2731ce29159d3efa8fe9011e8ca35ad74abcf867">
+        <dex dex="/home/wenhui/Downloads/android-FingerprintDialog/Application/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_b98d6e77529206385cd8d63967270bf545ad3586/classes.dex" />
+    </item>
+
+</items>
