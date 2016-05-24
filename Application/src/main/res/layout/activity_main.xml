@@ -154,5 +154,35 @@
                 android:textColor="?android:attr/colorAccent"
                 android:text="@string/purchase_done"
                 android:visibility="gone"/>
+        <TextView
+            android:id="@+id/confirmation_message_1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="16dp"
+            android:paddingStart="16dp"
+            android:paddingEnd="16dp"
+            android:textAppearance="@android:style/TextAppearance.Material.Body2"
+            android:textColor="?android:attr/colorAccent"
+            android:text="@string/location_done"
+            android:visibility="gone"/>
+
+        <TextView
+            android:id="@+id/latitude_text"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_marginStart="10dp"
+            android:text="@+id/latitude_text"
+            android:textIsSelectable="true" />
+
+        <TextView
+            android:id="@+id/longitude_text"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_marginStart="10dp"
+            android:text="@+id/longitude_text"
+            android:textIsSelectable="true" />
+
     </LinearLayout>
 </ScrollView>

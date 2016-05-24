@@ -19,22 +19,39 @@ package com.example.android.fingerprintdialog;
 import android.Manifest;
 import android.app.Activity;
 import android.app.KeyguardManager;
+import android.content.Context;
 import android.content.Intent;
 import android.content.SharedPreferences;
 import android.content.pm.PackageManager;
 import android.hardware.fingerprint.FingerprintManager;
+import android.location.Address;
+import android.location.Criteria;
+import android.location.Geocoder;
+import android.location.Location;
+import android.location.LocationListener;
+import android.location.LocationManager;
+import android.net.Uri;
+import android.os.Build;
 import android.os.Bundle;
 import android.security.keystore.KeyGenParameterSpec;
 import android.security.keystore.KeyPermanentlyInvalidatedException;
 import android.security.keystore.KeyProperties;
+import android.support.v4.app.ActivityCompat;
+import android.support.v4.content.ContextCompat;
 import android.util.Base64;
 import android.util.Log;
 import android.view.Menu;
 import android.view.MenuItem;
 import android.view.View;
 import android.widget.Button;
+import android.widget.LinearLayout;
 import android.widget.TextView;
 import android.widget.Toast;
+
+
+import com.google.android.gms.appindexing.Action;
+import com.google.android.gms.appindexing.AppIndex;
+import com.google.android.gms.common.api.GoogleApiClient;
 
 import java.io.IOException;
 import java.security.InvalidAlgorithmParameterException;
@@ -44,6 +61,7 @@ import java.security.KeyStoreException;
 import java.security.NoSuchAlgorithmException;
 import java.security.UnrecoverableKeyException;
 import java.security.cert.CertificateException;
+import java.util.List;
 
 import javax.crypto.BadPaddingException;
 import javax.crypto.Cipher;
@@ -61,16 +79,61 @@ public class MainActivity extends Activity {
 
     private static final String DIALOG_FRAGMENT_TAG = "myFragment";
     private static final String SECRET_MESSAGE = "Very secret message";
-    /** Alias for our key in the Android Key Store */
+    /**
+     * Alias for our key in the Android Key Store
+     */
     private static final String KEY_NAME = "my_key";
 
-    @Inject KeyguardManager mKeyguardManager;
-    @Inject FingerprintManager mFingerprintManager;
-    @Inject FingerprintAuthenticationDialogFragment mFragment;
-    @Inject KeyStore mKeyStore;
-    @Inject KeyGenerator mKeyGenerator;
-    @Inject Cipher mCipher;
-    @Inject SharedPreferences mSharedPreferences;
+
+    TextView textview;
+    LocationManager locationManager;
+    String provider;
+
+    @Inject
+    KeyguardManager mKeyguardManager;
+    @Inject
+    FingerprintManager mFingerprintManager;
+    @Inject
+    FingerprintAuthenticationDialogFragment mFragment;
+    @Inject
+    KeyStore mKeyStore;
+    @Inject
+    KeyGenerator mKeyGenerator;
+    @Inject
+    Cipher mCipher;
+    @Inject
+    SharedPreferences mSharedPreferences;
+
+
+    /**
+     * Provides the entry point to Google Play services.
+     */
+    //protected GoogleApiClient mGoogleApiClient;
+
+    /**
+     * Represents a geographical location.
+     */
+    // protected Location mLastLocation;
+
+    protected TextView mLatitudeText;
+    protected TextView mLongitudeText;
+    /**
+     * ATTENTION: This was auto-generated to implement the App Indexing API.
+     * See https://g.co/AppIndexing/AndroidStudio for more information.
+     */
+    private GoogleApiClient client;
+
+
+
+
+
+
+
+
+
+
+
+
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -82,9 +145,53 @@ public class MainActivity extends Activity {
 
         Button requestLocationButton = (Button) findViewById(R.id.button_1);
         requestLocationButton.setEnabled(true);
-        
+
+        // Getting LocationManager object
+        locationManager = (LocationManager) getSystemService(Context.LOCATION_SERVICE);
+
+        // Creating an empty criteria object
+        Criteria criteria = new Criteria();
+
+        // Getting the name of the provider that meets the criteria
+        provider = locationManager.getBestProvider(criteria, false);
 
 
+        if (provider != null && !provider.equals("")) {
+
+
+            if (ContextCompat.checkSelfPermission(this, Manifest.permission.ACCESS_COARSE_LOCATION) != PackageManager.PERMISSION_GRANTED) {
+
+                ActivityCompat.requestPermissions(this, new String[]{Manifest.permission.ACCESS_COARSE_LOCATION},
+                        1);   //MY_PERMISSION_ACCESS_COURSE_LOCATION
+            }else{
+                locationManager.requestLocationUpdates(provider, 20000, 1, (LocationListener) this);
+                
+            }
+
+
+            // Get the location from the given provider
+            Location location = locationManager.getLastKnownLocation(provider);
+
+            if (location != null)
+                onLocationChanged(location);
+            else
+                Toast.makeText(getBaseContext(), "Location can't be retrieved", Toast.LENGTH_SHORT).show();
+
+        } else {
+            Toast.makeText(getBaseContext(), "No Provider Found", Toast.LENGTH_SHORT).show();
+        }
+
+
+        requestLocationButton.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                findViewById(R.id.confirmation_message_1).setVisibility(View.GONE);
+                findViewById(R.id.encrypted_message).setVisibility(View.GONE);
+
+
+                showLocationConfirmation(null);
+            }
+        });
 
         if (!mKeyguardManager.isKeyguardSecure()) {
             // Show a message that the user hasn't set up a fingerprint or lock screen.
@@ -144,6 +251,39 @@ public class MainActivity extends Activity {
             }
         });
 
+        // ATTENTION: This was auto-generated to implement the App Indexing API.
+        // See https://g.co/AppIndexing/AndroidStudio for more information.
+        client = new GoogleApiClient.Builder(this).addApi(AppIndex.API).build();
+    }
+
+
+    public void onLocationChanged(Location location) {
+        // Getting reference to TextView tv_longitude
+        TextView tvLongitude = (TextView) findViewById(R.id.latitude_text);
+
+        // Getting reference to TextView tv_latitude
+        TextView tvLatitude = (TextView) findViewById(R.id.longitude_text);
+
+        // Setting Current Longitude
+        tvLongitude.setText("Longitude:" + location.getLongitude());
+
+        // Setting Current Latitude
+        tvLatitude.setText("Latitude:" + location.getLatitude());
+    }
+
+
+    public void onProviderDisabled(String provider) {
+        // TODO Auto-generated method stub
+    }
+
+
+    public void onProviderEnabled(String provider) {
+        // TODO Auto-generated method stub
+    }
+
+
+    public void onStatusChanged(String provider, int status, Bundle extras) {
+        // TODO Auto-generated method stub
     }
 
     /**
@@ -189,6 +329,19 @@ public class MainActivity extends Activity {
         }
     }
 
+
+    // Show confirmation, if location is requested .
+    private void showLocationConfirmation(byte[] encrypted) {
+
+
+        findViewById(R.id.confirmation_message_1).setVisibility(View.VISIBLE);
+        if (encrypted != null) {
+            TextView v = (TextView) findViewById(R.id.encrypted_message);
+            v.setVisibility(View.VISIBLE);
+            v.setText("Location Requested Successful: not encrypted");
+        }
+    }
+
     /**
      * Tries to encrypt some data with the generated key in {@link #createKey} which is
      * only works if the user has just authenticated via fingerprint.
@@ -220,8 +373,8 @@ public class MainActivity extends Activity {
                     KeyProperties.PURPOSE_ENCRYPT |
                             KeyProperties.PURPOSE_DECRYPT)
                     .setBlockModes(KeyProperties.BLOCK_MODE_CBC)
-                            // Require the user to authenticate with a fingerprint to authorize every use
-                            // of the key
+                    // Require the user to authenticate with a fingerprint to authorize every use
+                    // of the key
                     .setUserAuthenticationRequired(true)
                     .setEncryptionPaddings(KeyProperties.ENCRYPTION_PADDING_PKCS7)
                     .build());
@@ -249,4 +402,45 @@ public class MainActivity extends Activity {
         }
         return super.onOptionsItemSelected(item);
     }
+
+    @Override
+    public void onStart() {
+        super.onStart();
+
+        // ATTENTION: This was auto-generated to implement the App Indexing API.
+        // See https://g.co/AppIndexing/AndroidStudio for more information.
+        client.connect();
+        Action viewAction = Action.newAction(
+                Action.TYPE_VIEW, // TODO: choose an action type.
+                "Main Page", // TODO: Define a title for the content shown.
+                // TODO: If you have web page content that matches this app activity's content,
+                // make sure this auto-generated web page URL is correct.
+                // Otherwise, set the URL to null.
+                Uri.parse("http://host/path"),
+                // TODO: Make sure this auto-generated app URL is correct.
+                Uri.parse("android-app://com.example.android.fingerprintdialog/http/host/path")
+        );
+        AppIndex.AppIndexApi.start(client, viewAction);
+    }
+
+    @Override
+    public void onStop() {
+        super.onStop();
+
+        // ATTENTION: This was auto-generated to implement the App Indexing API.
+        // See https://g.co/AppIndexing/AndroidStudio for more information.
+        Action viewAction = Action.newAction(
+                Action.TYPE_VIEW, // TODO: choose an action type.
+                "Main Page", // TODO: Define a title for the content shown.
+                // TODO: If you have web page content that matches this app activity's content,
+                // make sure this auto-generated web page URL is correct.
+                // Otherwise, set the URL to null.
+                Uri.parse("http://host/path"),
+                // TODO: Make sure this auto-generated app URL is correct.
+                Uri.parse("android-app://com.example.android.fingerprintdialog/http/host/path")
+        );
+        AppIndex.AppIndexApi.end(client, viewAction);
+        client.disconnect();
+    }
 }
+
