@@ -1,2 +1,166 @@
 <?xml version="1.0" encoding="utf-8"?>
-<items version="2" />
+<items version="2" >
+
+    <item
+        jar="/home/wenhui/Downloads/android-FingerprintDialog/Application/build/intermediates/exploded-aar/com.android.support/support-v13/23.0.0/jars/libs/internal_impl-23.0.0.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="5d4bccb885c8a89d066ecb6c4addb553a99a79a2">
+        <dex dex="/home/wenhui/Downloads/android-FingerprintDialog/Application/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.0.0_7957bfac5671a5b48543e858c50e769919a645db/classes.dex" />
+    </item>
+    <item
+        jar="/home/wenhui/.gradle/caches/modules-2/files-2.1/org.hamcrest/hamcrest-core/1.3/42a25dc3219429f0e5d060061f71acb49bf010a0/hamcrest-core-1.3.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="42a25dc3219429f0e5d060061f71acb49bf010a0">
+        <dex dex="/home/wenhui/Downloads/android-FingerprintDialog/Application/build/intermediates/transforms/dex/debug/folders/1000/10/hamcrest-core-1.3_7b0c0f58b250eb8e9ba4518adc66d644e7cc5366/classes.dex" />
+    </item>
+    <item
+        jar="/home/wenhui/Downloads/android-FingerprintDialog/Application/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/8.1.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="3aed37c38c56679602255dd72ef356da5d327cda">
+        <dex dex="/home/wenhui/Downloads/android-FingerprintDialog/Application/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-location-8.1.0_8e1c66e8c3b3f80af7406bc40c6ecf6040fb0eee/classes.dex" />
+    </item>
+    <item
+        jar="/home/wenhui/Downloads/android-FingerprintDialog/Application/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="d0dda274b703dd9c5bb056867649d22b4171ae7d">
+        <dex dex="/home/wenhui/Downloads/android-FingerprintDialog/Application/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-8.1.0_9af7a55f3e70ca129861514c036c3957ce6f3ede/classes.dex" />
+    </item>
+    <item
+        jar="/home/wenhui/Downloads/android-FingerprintDialog/Application/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="0b1ecf34373e1eb66fd879943f4caa79ef604458">
+        <dex dex="/home/wenhui/Downloads/android-FingerprintDialog/Application/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_ff553f15fa83d80eb0eb48e186c0ccb61f27fa6a/classes.dex" />
+    </item>
+    <item
+        jar="/home/wenhui/Downloads/android-FingerprintDialog/Application/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="/home/wenhui/Downloads/android-FingerprintDialog/Application/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.0.1_f44c3c6de20819c0c4323c1f49e2fb4fdbe1ca33/classes.dex" />
+    </item>
+    <item
+        jar="/home/wenhui/Downloads/android-FingerprintDialog/Application/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="1ccbc26be2c465c622a48310e8092241b01abe80">
+        <dex dex="/home/wenhui/Downloads/android-FingerprintDialog/Application/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-cardview-v7-23.0.0_98b856abf81a28533f297103e0980b702dccbffc/classes.dex" />
+    </item>
+    <item
+        jar="/home/wenhui/Downloads/android-FingerprintDialog/Application/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/8.1.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="2a7e47da654546f9457deb6132364f1bf33a1857">
+        <dex dex="/home/wenhui/Downloads/android-FingerprintDialog/Application/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-maps-8.1.0_31b45b18ab6443e1ec16c82231323d3f40cd94e8/classes.dex" />
+    </item>
+    <item
+        jar="/home/wenhui/.gradle/caches/modules-2/files-2.1/org.mockito/mockito-core/1.10.19/e8546f5bef4e061d8dd73895b4e8f40e3fe6effe/mockito-core-1.10.19.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="e8546f5bef4e061d8dd73895b4e8f40e3fe6effe">
+        <dex dex="/home/wenhui/Downloads/android-FingerprintDialog/Application/build/intermediates/transforms/dex/debug/folders/1000/10/mockito-core-1.10.19_e9d9a91e182e020f066e16f2e1b8c4f5fff981b5/classes.dex" />
+    </item>
+    <item
+        jar="/home/wenhui/.gradle/caches/modules-2/files-2.1/org.objenesis/objenesis/2.1/87c0ea803b69252868d09308b4618f766f135a96/objenesis-2.1.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="87c0ea803b69252868d09308b4618f766f135a96">
+        <dex dex="/home/wenhui/Downloads/android-FingerprintDialog/Application/build/intermediates/transforms/dex/debug/folders/1000/10/objenesis-2.1_26e48b5ba7c099bc3aedd1a6d6183849480f94ec/classes.dex" />
+    </item>
+    <item
+        jar="/home/wenhui/Downloads/android-FingerprintDialog/Application/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="/home/wenhui/Downloads/android-FingerprintDialog/Application/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.0.1_0ba8c4c60850a074b4c55a2aabf93a9d8f60d13d/classes.dex" />
+    </item>
+    <item
+        jar="/opt/android-studio/gradle/m2repository/com/squareup/javawriter/2.5.0/javawriter-2.5.0.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="81241ff7078ef14f42ea2a8995fa09c096256e6b">
+        <dex dex="/home/wenhui/Downloads/android-FingerprintDialog/Application/build/intermediates/transforms/dex/debug/folders/1000/10/javawriter-2.5.0_9f026334bb12dfc31be0963beac5fae052278077/classes.dex" />
+    </item>
+    <item
+        jar="/home/wenhui/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.3.0/support-annotations-23.3.0.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="/home/wenhui/Downloads/android-FingerprintDialog/Application/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.3.0_47f3dbcc2f575feab4db26402652b192228683da/classes.dex" />
+    </item>
+    <item
+        jar="/home/wenhui/Downloads/android-FingerprintDialog/Application/build/intermediates/exploded-aar/com.android.support/support-v13/23.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="bb0ac3f3ee2d71854501cc28e52cc84a20209b41">
+        <dex dex="/home/wenhui/Downloads/android-FingerprintDialog/Application/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v13-23.0.0_d5dcf8399247852f8f387feaaac7a56f95abb601/classes.dex" />
+    </item>
+    <item
+        jar="/home/wenhui/Downloads/android-FingerprintDialog/Application/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="f373265f4fd2f7543fe31966d9af861268ac254b">
+        <dex dex="/home/wenhui/Downloads/android-FingerprintDialog/Application/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_b98d6e77529206385cd8d63967270bf545ad3586/classes.dex" />
+    </item>
+    <item
+        jar="/home/wenhui/Downloads/android-FingerprintDialog/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="/home/wenhui/Downloads/android-FingerprintDialog/Application/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-21.0.3_5ea747fd82dc7779ac16fe79a7ca9d4ef6d42c85/classes.dex" />
+    </item>
+    <item
+        jar="/home/wenhui/.gradle/caches/modules-2/files-2.1/com.squareup.dagger/dagger/1.2.2/e8f912ee19ad84958510883ea191135276b091f8/dagger-1.2.2.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="e8f912ee19ad84958510883ea191135276b091f8">
+        <dex dex="/home/wenhui/Downloads/android-FingerprintDialog/Application/build/intermediates/transforms/dex/debug/folders/1000/10/dagger-1.2.2_0d510611a508422e50ce9bd606b99ae95db1f1af/classes.dex" />
+    </item>
+    <item
+        jar="/home/wenhui/Downloads/android-FingerprintDialog/Application/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/8.1.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="4477ea44f5ec5ad064022a22691732d7638ff197">
+        <dex dex="/home/wenhui/Downloads/android-FingerprintDialog/Application/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-appindexing-8.1.0_564e238b9624c9e3abec9e5f764ddad45fb024b1/classes.dex" />
+    </item>
+    <item
+        jar="/home/wenhui/.gradle/caches/modules-2/files-2.1/com.google.guava/guava/15.0/ed727a8d9f247e2050281cb083f1c77b09dcb5cd/guava-15.0.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="ed727a8d9f247e2050281cb083f1c77b09dcb5cd">
+        <dex dex="/home/wenhui/Downloads/android-FingerprintDialog/Application/build/intermediates/transforms/dex/debug/folders/1000/10/guava-15.0_d68e570f4cc3e3e3eb11939f639517db254d694e/classes.dex" />
+    </item>
+    <item
+        jar="/home/wenhui/.gradle/caches/modules-2/files-2.1/com.squareup.dagger/dagger-compiler/1.2.2/fa9b2f9ae597cedf2a66ef3e60662ff36bb60e57/dagger-compiler-1.2.2.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="fa9b2f9ae597cedf2a66ef3e60662ff36bb60e57">
+        <dex dex="/home/wenhui/Downloads/android-FingerprintDialog/Application/build/intermediates/transforms/dex/debug/folders/1000/10/dagger-compiler-1.2.2_97d3098ec7285eecb2a9dd82b144db38c6f57fca/classes.dex" />
+    </item>
+    <item
+        jar="/home/wenhui/Downloads/android-FingerprintDialog/Application/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.1.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="82825756edeeb3b56b15e73b2edd56e93da5a444">
+        <dex dex="/home/wenhui/Downloads/android-FingerprintDialog/Application/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-base-8.1.0_5258d3ca46281f8ed35a79fc7d35b9e67e96bb1d/classes.dex" />
+    </item>
+    <item
+        jar="/home/wenhui/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/home/wenhui/Downloads/android-FingerprintDialog/Application/build/intermediates/transforms/dex/debug/folders/1000/10/javax.inject-1_384cc810aa7912761f0236cd305b8e8003ef9baa/classes.dex" />
+    </item>
+    <item
+        jar="/home/wenhui/.gradle/caches/modules-2/files-2.1/junit/junit/4.12/2973d150c0dc1fefe998f834810d68f278ea58ec/junit-4.12.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="2973d150c0dc1fefe998f834810d68f278ea58ec">
+        <dex dex="/home/wenhui/Downloads/android-FingerprintDialog/Application/build/intermediates/transforms/dex/debug/folders/1000/10/junit-4.12_dadb9c385c611c8388d40b3f6d984cba06125b93/classes.dex" />
+    </item>
+
+</items>

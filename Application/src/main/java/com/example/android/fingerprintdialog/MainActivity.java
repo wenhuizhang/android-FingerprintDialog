@@ -28,7 +28,7 @@ import android.location.Address;
 import android.location.Criteria;
 import android.location.Geocoder;
 import android.location.Location;
-import android.location.LocationListener;
+//import android.location.LocationListener;
 import android.location.LocationManager;
 import android.net.Uri;
 import android.os.Build;
@@ -52,6 +52,7 @@ import android.widget.Toast;
 import com.google.android.gms.appindexing.Action;
 import com.google.android.gms.appindexing.AppIndex;
 import com.google.android.gms.common.api.GoogleApiClient;
+import com.google.android.gms.location.LocationListener;
 
 import java.io.IOException;
 import java.security.InvalidAlgorithmParameterException;
@@ -163,6 +164,11 @@ public class MainActivity extends Activity {
                 locationManager = (LocationManager) getSystemService(Context.LOCATION_SERVICE);
                 Location location= locationManager.getLastKnownLocation(LocationManager.GPS_PROVIDER);
                 //Location location=locationManager.requestLocationUpdates(LocationManager.GPS_PROVIDER, 0, 0, this);
+
+                //while(location == null) {
+                //    location= locationManager.getLastKnownLocation(LocationManager.GPS_PROVIDER);
+                //}
+
                 if(location != null) {
                     onLocationChanged(location);
                 } else {
