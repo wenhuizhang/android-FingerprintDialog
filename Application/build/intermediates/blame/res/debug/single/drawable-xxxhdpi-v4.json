@@ -12,12 +12,12 @@
         "source": "/home/wenhui/Downloads/android-FingerprintDialog/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable-xxxhdpi/abc_ic_ab_back_mtrl_am_alpha.png"
     },
     {
-        "merged": "/home/wenhui/Downloads/android-FingerprintDialog/Application/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/ic_fp_40px.png",
-        "source": "/home/wenhui/Downloads/android-FingerprintDialog/Application/src/main/res/drawable-xxxhdpi/ic_fp_40px.png"
-    },
-    {
         "merged": "/home/wenhui/Downloads/android-FingerprintDialog/Application/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/abc_btn_check_to_on_mtrl_000.png",
         "source": "/home/wenhui/Downloads/android-FingerprintDialog/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable-xxxhdpi/abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "/home/wenhui/Downloads/android-FingerprintDialog/Application/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/ic_fp_40px.png",
+        "source": "/home/wenhui/Downloads/android-FingerprintDialog/Application/src/main/res/drawable-xxxhdpi/ic_fp_40px.png"
     },
     {
         "merged": "/home/wenhui/Downloads/android-FingerprintDialog/Application/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/abc_ic_menu_cut_mtrl_alpha.png",

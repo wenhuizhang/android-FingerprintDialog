@@ -238,7 +238,7 @@ FingerprintManager.authenticate with a Cipher or fall back to server-side verifi
     <string name="item_price">Wenhui Zhang, Le Guan, Peng Liu</string>
     <string name="item_title_0">Fingerprint Service Request Test</string>
     <string name="item_title_1">Location Service Request Test</string>
-    <string name="location_done">Location Request Successful</string>
+    <string name="location_done">Location Requested</string>
     <string name="new_fingerprint_enrolled_description">A new fingerprint was added to this device, so your password is required.</string>
     <string name="ok">Ok</string>
     <string name="password">Password</string>

@@ -124,17 +124,6 @@ public class MainActivity extends Activity {
     private GoogleApiClient client;
 
 
-
-
-
-
-
-
-
-
-
-
-
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -144,42 +133,9 @@ public class MainActivity extends Activity {
         Button purchaseButton = (Button) findViewById(R.id.button_0);
 
         Button requestLocationButton = (Button) findViewById(R.id.button_1);
+
         requestLocationButton.setEnabled(true);
 
-        // Getting LocationManager object
-        locationManager = (LocationManager) getSystemService(Context.LOCATION_SERVICE);
-
-        // Creating an empty criteria object
-        Criteria criteria = new Criteria();
-
-        // Getting the name of the provider that meets the criteria
-        provider = locationManager.getBestProvider(criteria, false);
-
-
-        if (provider != null && !provider.equals("")) {
-
-
-            if (ContextCompat.checkSelfPermission(this, Manifest.permission.ACCESS_COARSE_LOCATION) != PackageManager.PERMISSION_GRANTED) {
-
-                ActivityCompat.requestPermissions(this, new String[]{Manifest.permission.ACCESS_COARSE_LOCATION},
-                        1);   //MY_PERMISSION_ACCESS_COURSE_LOCATION
-            }else{
-                locationManager.requestLocationUpdates(provider, 20000, 1, (LocationListener) this);
-                
-            }
-
-
-            // Get the location from the given provider
-            Location location = locationManager.getLastKnownLocation(provider);
-
-            if (location != null)
-                onLocationChanged(location);
-            else
-                Toast.makeText(getBaseContext(), "Location can't be retrieved", Toast.LENGTH_SHORT).show();
-
-        } else {
-            Toast.makeText(getBaseContext(), "No Provider Found", Toast.LENGTH_SHORT).show();
-        }
 
 
         requestLocationButton.setOnClickListener(new View.OnClickListener() {
@@ -187,11 +143,34 @@ public class MainActivity extends Activity {
             public void onClick(View v) {
                 findViewById(R.id.confirmation_message_1).setVisibility(View.GONE);
                 findViewById(R.id.encrypted_message).setVisibility(View.GONE);
+                locationManager = (LocationManager) getSystemService(Context.LOCATION_SERVICE);
+                Location location= locationManager.getLastKnownLocation(LocationManager.GPS_PROVIDER);
+                //Location location=locationManager.requestLocationUpdates(LocationManager.GPS_PROVIDER, 0, 0, this);
+
+                onLocationChanged(location);
+
+                if (checkSelfPermission(Manifest.permission.ACCESS_COARSE_LOCATION) != PackageManager.PERMISSION_GRANTED) {
+                    requestPermissions(new String[]{Manifest.permission.ACCESS_COARSE_LOCATION},
+                            1);   //MY_PERMISSION_ACCESS_COURSE_LOCATION
+                }
+
+
+                //locationManager.requestLocationUpdates(LocationManager.GPS_PROVIDER, 0, 0, this);
 
 
                 showLocationConfirmation(null);
             }
         });
+
+
+
+
+
+
+
+
+
+
 
         if (!mKeyguardManager.isKeyguardSecure()) {
             // Show a message that the user hasn't set up a fingerprint or lock screen.
@@ -257,6 +236,10 @@ public class MainActivity extends Activity {
     }
 
 
+
+
+
+
     public void onLocationChanged(Location location) {
         // Getting reference to TextView tv_longitude
         TextView tvLongitude = (TextView) findViewById(R.id.latitude_text);
@@ -274,16 +257,19 @@ public class MainActivity extends Activity {
 
     public void onProviderDisabled(String provider) {
         // TODO Auto-generated method stub
+        Log.d("Latitude","disable");
     }
 
 
     public void onProviderEnabled(String provider) {
         // TODO Auto-generated method stub
+        Log.d("Latitude","enable");
     }
 
 
     public void onStatusChanged(String provider, int status, Bundle extras) {
         // TODO Auto-generated method stub
+        Log.d("Latitude","status");
     }
 
     /**

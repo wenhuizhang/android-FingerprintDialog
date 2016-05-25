@@ -3868,8 +3868,8 @@
                     "startLine": 240,
                     "startColumn": 4,
                     "startOffset": 31353,
-                    "endColumn": 69,
-                    "endOffset": 31418
+                    "endColumn": 60,
+                    "endOffset": 31409
                 },
                 "from": {
                     "file": "/home/wenhui/Downloads/android-FingerprintDialog/Application/src/main/res/values/strings.xml",
@@ -3877,8 +3877,8 @@
                         "startLine": 37,
                         "startColumn": 4,
                         "startOffset": 2104,
-                        "endColumn": 69,
-                        "endOffset": 2169
+                        "endColumn": 60,
+                        "endOffset": 2160
                     }
                 }
             },
@@ -3886,18 +3886,18 @@
                 "to": {
                     "startLine": 241,
                     "startColumn": 4,
-                    "startOffset": 31423,
+                    "startOffset": 31414,
                     "endColumn": 138,
-                    "endOffset": 31557
+                    "endOffset": 31548
                 },
                 "from": {
                     "file": "/home/wenhui/Downloads/android-FingerprintDialog/Application/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 38,
                         "startColumn": 4,
-                        "startOffset": 2174,
+                        "startOffset": 2165,
                         "endColumn": 138,
-                        "endOffset": 2308
+                        "endOffset": 2299
                     }
                 }
             },
@@ -3905,9 +3905,9 @@
                 "to": {
                     "startLine": 242,
                     "startColumn": 4,
-                    "startOffset": 31562,
+                    "startOffset": 31553,
                     "endColumn": 33,
-                    "endOffset": 31591
+                    "endOffset": 31582
                 },
                 "from": {
                     "file": "/home/wenhui/Downloads/android-FingerprintDialog/Application/src/main/res/values/strings.xml",
@@ -3924,9 +3924,9 @@
                 "to": {
                     "startLine": 243,
                     "startColumn": 4,
-                    "startOffset": 31596,
+                    "startOffset": 31587,
                     "endColumn": 45,
-                    "endOffset": 31637
+                    "endOffset": 31628
                 },
                 "from": {
                     "file": "/home/wenhui/Downloads/android-FingerprintDialog/Application/src/main/res/values/strings.xml",
@@ -3943,9 +3943,9 @@
                 "to": {
                     "startLine": 244,
                     "startColumn": 4,
-                    "startOffset": 31642,
+                    "startOffset": 31633,
                     "endColumn": 86,
-                    "endOffset": 31724
+                    "endOffset": 31715
                 },
                 "from": {
                     "file": "/home/wenhui/Downloads/android-FingerprintDialog/Application/src/main/res/values/strings.xml",
@@ -3962,9 +3962,9 @@
                 "to": {
                     "startLine": 245,
                     "startColumn": 4,
-                    "startOffset": 31729,
+                    "startOffset": 31720,
                     "endColumn": 72,
-                    "endOffset": 31797
+                    "endOffset": 31788
                 },
                 "from": {
                     "file": "/home/wenhui/Downloads/android-FingerprintDialog/Application/src/main/res/values/strings.xml",
@@ -3981,9 +3981,9 @@
                 "to": {
                     "startLine": 246,
                     "startColumn": 4,
-                    "startOffset": 31802,
+                    "startOffset": 31793,
                     "endColumn": 45,
-                    "endOffset": 31843
+                    "endOffset": 31834
                 },
                 "from": {
                     "file": "/home/wenhui/Downloads/android-FingerprintDialog/Application/src/main/res/values/strings.xml",
@@ -4000,9 +4000,9 @@
                 "to": {
                     "startLine": 247,
                     "startColumn": 4,
-                    "startOffset": 31848,
+                    "startOffset": 31839,
                     "endColumn": 45,
-                    "endOffset": 31889
+                    "endOffset": 31880
                 },
                 "from": {
                     "file": "/home/wenhui/Downloads/android-FingerprintDialog/Application/src/main/res/values/strings.xml",
@@ -4019,9 +4019,9 @@
                 "to": {
                     "startLine": 248,
                     "startColumn": 4,
-                    "startOffset": 31894,
+                    "startOffset": 31885,
                     "endColumn": 43,
-                    "endOffset": 31933
+                    "endOffset": 31924
                 },
                 "from": {
                     "file": "/home/wenhui/Downloads/android-FingerprintDialog/Application/src/main/res/values/strings.xml",
@@ -4038,18 +4038,18 @@
                 "to": {
                     "startLine": 249,
                     "startColumn": 4,
-                    "startOffset": 31938,
+                    "startOffset": 31929,
                     "endColumn": 83,
-                    "endOffset": 32017
+                    "endOffset": 32008
                 },
                 "from": {
                     "file": "/home/wenhui/Downloads/android-FingerprintDialog/Application/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 39,
                         "startColumn": 4,
-                        "startOffset": 2313,
+                        "startOffset": 2304,
                         "endColumn": 83,
-                        "endOffset": 2392
+                        "endOffset": 2383
                     }
                 }
             },
@@ -4057,18 +4057,18 @@
                 "to": {
                     "startLine": 250,
                     "startColumn": 4,
-                    "startOffset": 32022,
+                    "startOffset": 32013,
                     "endColumn": 99,
-                    "endOffset": 32117
+                    "endOffset": 32108
                 },
                 "from": {
                     "file": "/home/wenhui/Downloads/android-FingerprintDialog/Application/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 41,
                         "startColumn": 4,
-                        "startOffset": 2495,
+                        "startOffset": 2486,
                         "endColumn": 100,
-                        "endOffset": 2591
+                        "endOffset": 2582
                     }
                 }
             },
@@ -4076,18 +4076,18 @@
                 "to": {
                     "startLine": 251,
                     "startColumn": 4,
-                    "startOffset": 32122,
+                    "startOffset": 32113,
                     "endColumn": 97,
-                    "endOffset": 32215
+                    "endOffset": 32206
                 },
                 "from": {
                     "file": "/home/wenhui/Downloads/android-FingerprintDialog/Application/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 40,
                         "startColumn": 4,
-                        "startOffset": 2397,
+                        "startOffset": 2388,
                         "endColumn": 97,
-                        "endOffset": 2490
+                        "endOffset": 2481
                     }
                 }
             },
@@ -4095,9 +4095,9 @@
                 "to": {
                     "startLine": 252,
                     "startColumn": 4,
-                    "startOffset": 32220,
+                    "startOffset": 32211,
                     "endColumn": 53,
-                    "endOffset": 32269
+                    "endOffset": 32260
                 },
                 "from": {
                     "file": "/home/wenhui/Downloads/android-FingerprintDialog/Application/src/main/res/values/strings.xml",
@@ -4114,9 +4114,9 @@
                 "to": {
                     "startLine": 253,
                     "startColumn": 4,
-                    "startOffset": 32274,
+                    "startOffset": 32265,
                     "endColumn": 50,
-                    "endOffset": 32320
+                    "endOffset": 32311
                 },
                 "from": {
                     "file": "/home/wenhui/Downloads/android-FingerprintDialog/Application/src/main/res/values/template-styles.xml",
@@ -4133,10 +4133,10 @@
                 "to": {
                     "startLine": 254,
                     "startColumn": 4,
-                    "startOffset": 32325,
+                    "startOffset": 32316,
                     "endLine": 260,
                     "endColumn": 12,
-                    "endOffset": 32797
+                    "endOffset": 32788
                 },
                 "from": {
                     "file": "/home/wenhui/Downloads/android-FingerprintDialog/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml",
@@ -4154,10 +4154,10 @@
                 "to": {
                     "startLine": 261,
                     "startColumn": 4,
-                    "startOffset": 32802,
+                    "startOffset": 32793,
                     "endLine": 264,
                     "endColumn": 12,
-                    "endOffset": 33019
+                    "endOffset": 33010
                 },
                 "from": {
                     "file": "/home/wenhui/Downloads/android-FingerprintDialog/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml",
@@ -4175,10 +4175,10 @@
                 "to": {
                     "startLine": 265,
                     "startColumn": 4,
-                    "startOffset": 33024,
+                    "startOffset": 33015,
                     "endLine": 268,
                     "endColumn": 12,
-                    "endOffset": 33241
+                    "endOffset": 33232
                 },
                 "from": {
                     "file": "/home/wenhui/Downloads/android-FingerprintDialog/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml",
@@ -4196,10 +4196,10 @@
                 "to": {
                     "startLine": 269,
                     "startColumn": 4,
-                    "startOffset": 33246,
+                    "startOffset": 33237,
                     "endLine": 273,
                     "endColumn": 12,
-                    "endOffset": 33509
+                    "endOffset": 33500
                 },
                 "from": {
                     "file": "/home/wenhui/Downloads/android-FingerprintDialog/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml",
@@ -4217,10 +4217,10 @@
                 "to": {
                     "startLine": 274,
                     "startColumn": 4,
-                    "startOffset": 33514,
+                    "startOffset": 33505,
                     "endLine": 277,
                     "endColumn": 12,
-                    "endOffset": 33736
+                    "endOffset": 33727
                 },
                 "from": {
                     "file": "/home/wenhui/Downloads/android-FingerprintDialog/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml",
@@ -4238,10 +4238,10 @@
                 "to": {
                     "startLine": 278,
                     "startColumn": 4,
-                    "startOffset": 33741,
+                    "startOffset": 33732,
                     "endLine": 281,
                     "endColumn": 12,
-                    "endOffset": 33966
+                    "endOffset": 33957
                 },
                 "from": {
                     "file": "/home/wenhui/Downloads/android-FingerprintDialog/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml",
@@ -4259,10 +4259,10 @@
                 "to": {
                     "startLine": 282,
                     "startColumn": 4,
-                    "startOffset": 33971,
+                    "startOffset": 33962,
                     "endLine": 285,
                     "endColumn": 12,
-                    "endOffset": 34196
+                    "endOffset": 34187
                 },
                 "from": {
                     "file": "/home/wenhui/Downloads/android-FingerprintDialog/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml",
@@ -4280,10 +4280,10 @@
                 "to": {
                     "startLine": 286,
                     "startColumn": 4,
-                    "startOffset": 34201,
+                    "startOffset": 34192,
                     "endLine": 289,
                     "endColumn": 12,
-                    "endOffset": 34426
+                    "endOffset": 34417
                 },
                 "from": {
                     "file": "/home/wenhui/Downloads/android-FingerprintDialog/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml",
@@ -4301,10 +4301,10 @@
                 "to": {
                     "startLine": 290,
                     "startColumn": 4,
-                    "startOffset": 34431,
+                    "startOffset": 34422,
                     "endLine": 293,
                     "endColumn": 12,
-                    "endOffset": 34656
+                    "endOffset": 34647
                 },
                 "from": {
                     "file": "/home/wenhui/Downloads/android-FingerprintDialog/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml",
@@ -4322,10 +4322,10 @@
                 "to": {
                     "startLine": 294,
                     "startColumn": 4,
-                    "startOffset": 34661,
+                    "startOffset": 34652,
                     "endLine": 297,
                     "endColumn": 12,
-                    "endOffset": 34883
+                    "endOffset": 34874
                 },
                 "from": {
                     "file": "/home/wenhui/Downloads/android-FingerprintDialog/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml",
@@ -4343,10 +4343,10 @@
                 "to": {
                     "startLine": 298,
                     "startColumn": 4,
-                    "startOffset": 34888,
+                    "startOffset": 34879,
                     "endLine": 301,
                     "endColumn": 12,
-                    "endOffset": 35122
+                    "endOffset": 35113
                 },
                 "from": {
                     "file": "/home/wenhui/Downloads/android-FingerprintDialog/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml",
@@ -4364,10 +4364,10 @@
                 "to": {
                     "startLine": 302,
                     "startColumn": 4,
-                    "startOffset": 35127,
+                    "startOffset": 35118,
                     "endLine": 305,
                     "endColumn": 12,
-                    "endOffset": 35348
+                    "endOffset": 35339
                 },
                 "from": {
                     "file": "/home/wenhui/Downloads/android-FingerprintDialog/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml",
@@ -4385,10 +4385,10 @@
                 "to": {
                     "startLine": 306,
                     "startColumn": 4,
-                    "startOffset": 35353,
+                    "startOffset": 35344,
                     "endLine": 309,
                     "endColumn": 12,
-                    "endOffset": 35593
+                    "endOffset": 35584
                 },
                 "from": {
                     "file": "/home/wenhui/Downloads/android-FingerprintDialog/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml",
@@ -4406,9 +4406,9 @@
                 "to": {
                     "startLine": 310,
                     "startColumn": 4,
-                    "startOffset": 35598,
+                    "startOffset": 35589,
                     "endColumn": 117,
-                    "endOffset": 35711
+                    "endOffset": 35702
                 },
                 "from": {
                     "file": "/home/wenhui/Downloads/android-FingerprintDialog/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml",
@@ -4425,9 +4425,9 @@
                 "to": {
                     "startLine": 311,
                     "startColumn": 4,
-                    "startOffset": 35716,
+                    "startOffset": 35707,
                     "endColumn": 117,
-                    "endOffset": 35829
+                    "endOffset": 35820
                 },
                 "from": {
                     "file": "/home/wenhui/Downloads/android-FingerprintDialog/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml",
@@ -4444,10 +4444,10 @@
                 "to": {
                     "startLine": 312,
                     "startColumn": 4,
-                    "startOffset": 35834,
+                    "startOffset": 35825,
                     "endLine": 315,
                     "endColumn": 12,
-                    "endOffset": 36059
+                    "endOffset": 36050
                 },
                 "from": {
                     "file": "/home/wenhui/Downloads/android-FingerprintDialog/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml",
@@ -4465,10 +4465,10 @@
                 "to": {
                     "startLine": 316,
                     "startColumn": 4,
-                    "startOffset": 36064,
+                    "startOffset": 36055,
                     "endLine": 319,
                     "endColumn": 12,
-                    "endOffset": 36307
+                    "endOffset": 36298
                 },
                 "from": {
                     "file": "/home/wenhui/Downloads/android-FingerprintDialog/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml",
@@ -4486,10 +4486,10 @@
                 "to": {
                     "startLine": 320,
                     "startColumn": 4,
-                    "startOffset": 36312,
+                    "startOffset": 36303,
                     "endLine": 323,
                     "endColumn": 12,
-                    "endOffset": 36526
+                    "endOffset": 36517
                 },
                 "from": {
                     "file": "/home/wenhui/Downloads/android-FingerprintDialog/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml",
@@ -4507,10 +4507,10 @@
                 "to": {
                     "startLine": 324,
                     "startColumn": 4,
-                    "startOffset": 36531,
+                    "startOffset": 36522,
                     "endLine": 328,
                     "endColumn": 12,
-                    "endOffset": 36809
+                    "endOffset": 36800
                 },
                 "from": {
                     "file": "/home/wenhui/Downloads/android-FingerprintDialog/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml",
@@ -4528,10 +4528,10 @@
                 "to": {
                     "startLine": 329,
                     "startColumn": 4,
-                    "startOffset": 36814,
+                    "startOffset": 36805,
                     "endLine": 332,
                     "endColumn": 12,
-                    "endOffset": 37017
+                    "endOffset": 37008
                 },
                 "from": {
                     "file": "/home/wenhui/Downloads/android-FingerprintDialog/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml",
@@ -4549,10 +4549,10 @@
                 "to": {
                     "startLine": 333,
                     "startColumn": 4,
-                    "startOffset": 37022,
+                    "startOffset": 37013,
                     "endLine": 335,
                     "endColumn": 12,
-                    "endOffset": 37148
+                    "endOffset": 37139
                 },
                 "from": {
                     "file": "/home/wenhui/Downloads/android-FingerprintDialog/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml",
@@ -4570,10 +4570,10 @@
                 "to": {
                     "startLine": 336,
                     "startColumn": 4,
-                    "startOffset": 37153,
+                    "startOffset": 37144,
                     "endLine": 339,
                     "endColumn": 12,
-                    "endOffset": 37375
+                    "endOffset": 37366
                 },
                 "from": {
                     "file": "/home/wenhui/Downloads/android-FingerprintDialog/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml",
@@ -4591,10 +4591,10 @@
                 "to": {
                     "startLine": 340,
                     "startColumn": 4,
-                    "startOffset": 37380,
+                    "startOffset": 37371,
                     "endLine": 343,
                     "endColumn": 12,
-                    "endOffset": 37621
+                    "endOffset": 37612
                 },
                 "from": {
                     "file": "/home/wenhui/Downloads/android-FingerprintDialog/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml",
@@ -4612,10 +4612,10 @@
                 "to": {
                     "startLine": 344,
                     "startColumn": 4,
-                    "startOffset": 37626,
+                    "startOffset": 37617,
                     "endLine": 347,
                     "endColumn": 12,
-                    "endOffset": 37846
+                    "endOffset": 37837
                 },
                 "from": {
                     "file": "/home/wenhui/Downloads/android-FingerprintDialog/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml",
@@ -4633,10 +4633,10 @@
                 "to": {
                     "startLine": 348,
                     "startColumn": 4,
-                    "startOffset": 37851,
+                    "startOffset": 37842,
                     "endLine": 351,
                     "endColumn": 12,
-                    "endOffset": 38095
+                    "endOffset": 38086
                 },
                 "from": {
                     "file": "/home/wenhui/Downloads/android-FingerprintDialog/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml",
@@ -4654,10 +4654,10 @@
                 "to": {
                     "startLine": 352,
                     "startColumn": 4,
-                    "startOffset": 38100,
+                    "startOffset": 38091,
                     "endLine": 355,
                     "endColumn": 12,
-                    "endOffset": 38316
+                    "endOffset": 38307
                 },
                 "from": {
                     "file": "/home/wenhui/Downloads/android-FingerprintDialog/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml",
@@ -4675,10 +4675,10 @@
                 "to": {
                     "startLine": 356,
                     "startColumn": 4,
-                    "startOffset": 38321,
+                    "startOffset": 38312,
                     "endLine": 359,
                     "endColumn": 12,
-                    "endOffset": 38561
+                    "endOffset": 38552
                 },
                 "from": {
                     "file": "/home/wenhui/Downloads/android-FingerprintDialog/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml",
@@ -4696,10 +4696,10 @@
                 "to": {
                     "startLine": 360,
                     "startColumn": 4,
-                    "startOffset": 38566,
+                    "startOffset": 38557,
                     "endLine": 364,
                     "endColumn": 12,
-                    "endOffset": 38856
+                    "endOffset": 38847
                 },
                 "from": {
                     "file": "/home/wenhui/Downloads/android-FingerprintDialog/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml",
@@ -4717,10 +4717,10 @@
                 "to": {
                     "startLine": 365,
                     "startColumn": 4,
-                    "startOffset": 38861,
+                    "startOffset": 38852,
                     "endLine": 367,
                     "endColumn": 12,
-                    "endOffset": 39078
+                    "endOffset": 39069
                 },
                 "from": {
                     "file": "/home/wenhui/Downloads/android-FingerprintDialog/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml",
@@ -4738,10 +4738,10 @@
                 "to": {
                     "startLine": 368,
                     "startColumn": 4,
-                    "startOffset": 39083,
+                    "startOffset": 39074,
                     "endLine": 370,
                     "endColumn": 12,
-                    "endOffset": 39316
+                    "endOffset": 39307
                 },
                 "from": {
                     "file": "/home/wenhui/Downloads/android-FingerprintDialog/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml",
@@ -4759,10 +4759,10 @@
                 "to": {
                     "startLine": 371,
                     "startColumn": 4,
-                    "startOffset": 39321,
+                    "startOffset": 39312,
                     "endLine": 373,
                     "endColumn": 12,
-                    "endOffset": 39530
+                    "endOffset": 39521
                 },
                 "from": {
                     "file": "/home/wenhui/Downloads/android-FingerprintDialog/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml",
@@ -4780,10 +4780,10 @@
                 "to": {
                     "startLine": 374,
                     "startColumn": 4,
-                    "startOffset": 39535,
+                    "startOffset": 39526,
                     "endLine": 376,
                     "endColumn": 12,
-                    "endOffset": 39760
+                    "endOffset": 39751
                 },
                 "from": {
                     "file": "/home/wenhui/Downloads/android-FingerprintDialog/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml",
@@ -4801,10 +4801,10 @@
                 "to": {
                     "startLine": 377,
                     "startColumn": 4,
-                    "startOffset": 39765,
+                    "startOffset": 39756,
                     "endLine": 379,
                     "endColumn": 12,
-                    "endOffset": 39983
+                    "endOffset": 39974
                 },
                 "from": {
                     "file": "/home/wenhui/Downloads/android-FingerprintDialog/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml",
@@ -4822,10 +4822,10 @@
                 "to": {
                     "startLine": 380,
                     "startColumn": 4,
-                    "startOffset": 39988,
+                    "startOffset": 39979,
                     "endLine": 382,
                     "endColumn": 12,
-                    "endOffset": 40198
+                    "endOffset": 40189
                 },
                 "from": {
                     "file": "/home/wenhui/Downloads/android-FingerprintDialog/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml",
@@ -4843,10 +4843,10 @@
                 "to": {
                     "startLine": 383,
                     "startColumn": 4,
-                    "startOffset": 40203,
+                    "startOffset": 40194,
                     "endLine": 385,
                     "endColumn": 12,
-                    "endOffset": 40406
+                    "endOffset": 40397
                 },
                 "from": {
                     "file": "/home/wenhui/Downloads/android-FingerprintDialog/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml",
@@ -4864,9 +4864,9 @@
                 "to": {
                     "startLine": 386,
                     "startColumn": 4,
-                    "startOffset": 40411,
+                    "startOffset": 40402,
                     "endColumn": 111,
-                    "endOffset": 40518
+                    "endOffset": 40509
                 },
                 "from": {
                     "file": "/home/wenhui/Downloads/android-FingerprintDialog/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml",
@@ -4883,9 +4883,9 @@
                 "to": {
                     "startLine": 387,
                     "startColumn": 4,
-                    "startOffset": 40523,
+                    "startOffset": 40514,
                     "endColumn": 111,
-                    "endOffset": 40630
+                    "endOffset": 40621
                 },
                 "from": {
                     "file": "/home/wenhui/Downloads/android-FingerprintDialog/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml",
@@ -4902,9 +4902,9 @@
                 "to": {
                     "startLine": 388,
                     "startColumn": 4,
-                    "startOffset": 40635,
+                    "startOffset": 40626,
                     "endColumn": 104,
-                    "endOffset": 40735
+                    "endOffset": 40726
                 },
                 "from": {
                     "file": "/home/wenhui/Downloads/android-FingerprintDialog/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml",
@@ -4921,10 +4921,10 @@
                 "to": {
                     "startLine": 389,
                     "startColumn": 4,
-                    "startOffset": 40740,
+                    "startOffset": 40731,
                     "endLine": 391,
                     "endColumn": 12,
-                    "endOffset": 40949
+                    "endOffset": 40940
                 },
                 "from": {
                     "file": "/home/wenhui/Downloads/android-FingerprintDialog/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml",
@@ -4942,9 +4942,9 @@
                 "to": {
                     "startLine": 392,
                     "startColumn": 4,
-                    "startOffset": 40954,
+                    "startOffset": 40945,
                     "endColumn": 133,
-                    "endOffset": 41083
+                    "endOffset": 41074
                 },
                 "from": {
                     "file": "/home/wenhui/Downloads/android-FingerprintDialog/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml",
@@ -4961,9 +4961,9 @@
                 "to": {
                     "startLine": 393,
                     "startColumn": 4,
-                    "startOffset": 41088,
+                    "startOffset": 41079,
                     "endColumn": 127,
-                    "endOffset": 41211
+                    "endOffset": 41202
                 },
                 "from": {
                     "file": "/home/wenhui/Downloads/android-FingerprintDialog/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml",
@@ -4980,9 +4980,9 @@
                 "to": {
                     "startLine": 394,
                     "startColumn": 4,
-                    "startOffset": 41216,
+                    "startOffset": 41207,
                     "endColumn": 73,
-                    "endOffset": 41285
+                    "endOffset": 41276
                 },
                 "from": {
                     "file": "/home/wenhui/Downloads/android-FingerprintDialog/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml",
@@ -4999,10 +4999,10 @@
                 "to": {
                     "startLine": 395,
                     "startColumn": 4,
-                    "startOffset": 41290,
+                    "startOffset": 41281,
                     "endLine": 398,
                     "endColumn": 12,
-                    "endOffset": 41538
+                    "endOffset": 41529
                 },
                 "from": {
                     "file": "/home/wenhui/Downloads/android-FingerprintDialog/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml",
@@ -5020,9 +5020,9 @@
                 "to": {
                     "startLine": 399,
                     "startColumn": 4,
-                    "startOffset": 41543,
+                    "startOffset": 41534,
                     "endColumn": 87,
-                    "endOffset": 41626
+                    "endOffset": 41617
                 },
                 "from": {
                     "file": "/home/wenhui/Downloads/android-FingerprintDialog/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml",
@@ -5039,10 +5039,10 @@
                 "to": {
                     "startLine": 400,
                     "startColumn": 4,
-                    "startOffset": 41631,
+                    "startOffset": 41622,
                     "endLine": 405,
                     "endColumn": 12,
-                    "endOffset": 42028
+                    "endOffset": 42019
                 },
                 "from": {
                     "file": "/home/wenhui/Downloads/android-FingerprintDialog/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml",
@@ -5060,9 +5060,9 @@
                 "to": {
                     "startLine": 406,
                     "startColumn": 4,
-                    "startOffset": 42033,
+                    "startOffset": 42024,
                     "endColumn": 81,
-                    "endOffset": 42110
+                    "endOffset": 42101
                 },
                 "from": {
                     "file": "/home/wenhui/Downloads/android-FingerprintDialog/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml",
@@ -5079,9 +5079,9 @@
                 "to": {
                     "startLine": 407,
                     "startColumn": 4,
-                    "startOffset": 42115,
+                    "startOffset": 42106,
                     "endColumn": 85,
-                    "endOffset": 42196
+                    "endOffset": 42187
                 },
                 "from": {
                     "file": "/home/wenhui/Downloads/android-FingerprintDialog/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml",
@@ -5098,10 +5098,10 @@
                 "to": {
                     "startLine": 408,
                     "startColumn": 4,
-                    "startOffset": 42201,
+                    "startOffset": 42192,
                     "endLine": 417,
                     "endColumn": 12,
-                    "endOffset": 42812
+                    "endOffset": 42803
                 },
                 "from": {
                     "file": "/home/wenhui/Downloads/android-FingerprintDialog/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml",
@@ -5119,9 +5119,9 @@
                 "to": {
                     "startLine": 418,
                     "startColumn": 4,
-                    "startOffset": 42817,
+                    "startOffset": 42808,
                     "endColumn": 90,
-                    "endOffset": 42903
+                    "endOffset": 42894
                 },
                 "from": {
                     "file": "/home/wenhui/Downloads/android-FingerprintDialog/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml",
@@ -5138,10 +5138,10 @@
                 "to": {
                     "startLine": 419,
                     "startColumn": 4,
-                    "startOffset": 42908,
+                    "startOffset": 42899,
                     "endLine": 424,
                     "endColumn": 12,
-                    "endOffset": 43311
+                    "endOffset": 43302
                 },
                 "from": {
                     "file": "/home/wenhui/Downloads/android-FingerprintDialog/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml",
@@ -5159,9 +5159,9 @@
                 "to": {
                     "startLine": 425,
                     "startColumn": 4,
-                    "startOffset": 43316,
+                    "startOffset": 43307,
                     "endColumn": 93,
-                    "endOffset": 43405
+                    "endOffset": 43396
                 },
                 "from": {
                     "file": "/home/wenhui/Downloads/android-FingerprintDialog/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml",
@@ -5178,9 +5178,9 @@
                 "to": {
                     "startLine": 426,
                     "startColumn": 4,
-                    "startOffset": 43410,
+                    "startOffset": 43401,
                     "endColumn": 57,
-                    "endOffset": 43463
+                    "endOffset": 43454
                 },
                 "from": {
                     "file": "/home/wenhui/Downloads/android-FingerprintDialog/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml",
@@ -5197,10 +5197,10 @@
                 "to": {
                     "startLine": 427,
                     "startColumn": 4,
-                    "startOffset": 43468,
+                    "startOffset": 43459,
                     "endLine": 429,
                     "endColumn": 12,
-                    "endOffset": 43611
+                    "endOffset": 43602
                 },
                 "from": {
                     "file": "/home/wenhui/Downloads/android-FingerprintDialog/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml",
@@ -5218,10 +5218,10 @@
                 "to": {
                     "startLine": 430,
                     "startColumn": 4,
-                    "startOffset": 43616,
+                    "startOffset": 43607,
                     "endLine": 462,
                     "endColumn": 12,
-                    "endOffset": 46104
+                    "endOffset": 46095
                 },
                 "from": {
                     "file": "/home/wenhui/Downloads/android-FingerprintDialog/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml",
@@ -5239,10 +5239,10 @@
                 "to": {
                     "startLine": 463,
                     "startColumn": 4,
-                    "startOffset": 46109,
+                    "startOffset": 46100,
                     "endLine": 465,
                     "endColumn": 12,
-                    "endOffset": 46257
+                    "endOffset": 46248
                 },
                 "from": {
                     "file": "/home/wenhui/Downloads/android-FingerprintDialog/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml",
@@ -5260,10 +5260,10 @@
                 "to": {
                     "startLine": 466,
                     "startColumn": 4,
-                    "startOffset": 46262,
+                    "startOffset": 46253,
                     "endLine": 497,
                     "endColumn": 12,
-                    "endOffset": 48862
+                    "endOffset": 48853
                 },
                 "from": {
                     "file": "/home/wenhui/Downloads/android-FingerprintDialog/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml",
@@ -5281,10 +5281,10 @@
                 "to": {
                     "startLine": 498,
                     "startColumn": 4,
-                    "startOffset": 48867,
+                    "startOffset": 48858,
                     "endLine": 596,
                     "endColumn": 12,
-                    "endOffset": 55605
+                    "endOffset": 55596
                 },
                 "from": {
                     "file": "/home/wenhui/Downloads/android-FingerprintDialog/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml",
@@ -5302,10 +5302,10 @@
                 "to": {
                     "startLine": 597,
                     "startColumn": 4,
-                    "startOffset": 55610,
+                    "startOffset": 55601,
                     "endLine": 692,
                     "endColumn": 12,
-                    "endOffset": 62227
+                    "endOffset": 62218
                 },
                 "from": {
                     "file": "/home/wenhui/Downloads/android-FingerprintDialog/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml",
@@ -5323,10 +5323,10 @@
                 "to": {
                     "startLine": 693,
                     "startColumn": 4,
-                    "startOffset": 62232,
+                    "startOffset": 62223,
                     "endLine": 791,
                     "endColumn": 12,
-                    "endOffset": 69066
+                    "endOffset": 69057
                 },
                 "from": {
                     "file": "/home/wenhui/Downloads/android-FingerprintDialog/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml",
@@ -5344,10 +5344,10 @@
                 "to": {
                     "startLine": 792,
                     "startColumn": 4,
-                    "startOffset": 69071,
+                    "startOffset": 69062,
                     "endLine": 806,
                     "endColumn": 12,
-                    "endOffset": 70005
+                    "endOffset": 69996
                 },
                 "from": {
                     "file": "/home/wenhui/Downloads/android-FingerprintDialog/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml",
@@ -5365,10 +5365,10 @@
                 "to": {
                     "startLine": 807,
                     "startColumn": 4,
-                    "startOffset": 70010,
+                    "startOffset": 70001,
                     "endLine": 811,
                     "endColumn": 12,
-                    "endOffset": 70261
+                    "endOffset": 70252
                 },
                 "from": {
                     "file": "/home/wenhui/Downloads/android-FingerprintDialog/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml",
@@ -5386,10 +5386,10 @@
                 "to": {
                     "startLine": 812,
                     "startColumn": 4,
-                    "startOffset": 70266,
+                    "startOffset": 70257,
                     "endLine": 816,
                     "endColumn": 12,
-                    "endOffset": 70497
+                    "endOffset": 70488
                 },
                 "from": {
                     "file": "/home/wenhui/Downloads/android-FingerprintDialog/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml",
@@ -5407,10 +5407,10 @@
                 "to": {
                     "startLine": 817,
                     "startColumn": 4,
-                    "startOffset": 70502,
+                    "startOffset": 70493,
                     "endLine": 826,
                     "endColumn": 12,
-                    "endOffset": 71044
+                    "endOffset": 71035
                 },
                 "from": {
                     "file": "/home/wenhui/Downloads/android-FingerprintDialog/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml",
@@ -5428,10 +5428,10 @@
                 "to": {
                     "startLine": 827,
                     "startColumn": 4,
-                    "startOffset": 71049,
+                    "startOffset": 71040,
                     "endLine": 835,
                     "endColumn": 12,
-                    "endOffset": 71538
+                    "endOffset": 71529
                 },
                 "from": {
                     "file": "/home/wenhui/Downloads/android-FingerprintDialog/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml",
@@ -5449,10 +5449,10 @@
                 "to": {
                     "startLine": 836,
                     "startColumn": 4,
-                    "startOffset": 71543,
+                    "startOffset": 71534,
                     "endLine": 846,
                     "endColumn": 12,
-                    "endOffset": 72211
+                    "endOffset": 72202
                 },
                 "from": {
                     "file": "/home/wenhui/Downloads/android-FingerprintDialog/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml",
@@ -5470,10 +5470,10 @@
                 "to": {
                     "startLine": 847,
                     "startColumn": 4,
-                    "startOffset": 72216,
+                    "startOffset": 72207,
                     "endLine": 849,
                     "endColumn": 12,
-                    "endOffset": 72376
+                    "endOffset": 72367
                 },
                 "from": {
                     "file": "/home/wenhui/Downloads/android-FingerprintDialog/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml",
@@ -5491,10 +5491,10 @@
                 "to": {
                     "startLine": 850,
                     "startColumn": 4,
-                    "startOffset": 72381,
+                    "startOffset": 72372,
                     "endLine": 856,
                     "endColumn": 12,
-                    "endOffset": 72904
+                    "endOffset": 72895
                 },
                 "from": {
                     "file": "/home/wenhui/Downloads/android-FingerprintDialog/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml",
@@ -5512,10 +5512,10 @@
                 "to": {
                     "startLine": 857,
                     "startColumn": 4,
-                    "startOffset": 72909,
+                    "startOffset": 72900,
                     "endLine": 864,
                     "endColumn": 12,
-                    "endOffset": 73468
+                    "endOffset": 73459
                 },
                 "from": {
                     "file": "/home/wenhui/Downloads/android-FingerprintDialog/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml",
@@ -5533,10 +5533,10 @@
                 "to": {
                     "startLine": 865,
                     "startColumn": 4,
-                    "startOffset": 73473,
+                    "startOffset": 73464,
                     "endLine": 871,
                     "endColumn": 12,
-                    "endOffset": 73842
+                    "endOffset": 73833
                 },
                 "from": {
                     "file": "/home/wenhui/Downloads/android-FingerprintDialog/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml",
@@ -5554,10 +5554,10 @@
                 "to": {
                     "startLine": 872,
                     "startColumn": 4,
-                    "startOffset": 73847,
+                    "startOffset": 73838,
                     "endLine": 876,
                     "endColumn": 12,
-                    "endOffset": 74212
+                    "endOffset": 74203
                 },
                 "from": {
                     "file": "/home/wenhui/Downloads/android-FingerprintDialog/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml",
@@ -5575,10 +5575,10 @@
                 "to": {
                     "startLine": 877,
                     "startColumn": 4,
-                    "startOffset": 74217,
+                    "startOffset": 74208,
                     "endLine": 883,
                     "endColumn": 12,
-                    "endOffset": 74703
+                    "endOffset": 74694
                 },
                 "from": {
                     "file": "/home/wenhui/Downloads/android-FingerprintDialog/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml",
@@ -5596,10 +5596,10 @@
                 "to": {
                     "startLine": 884,
                     "startColumn": 4,
-                    "startOffset": 74708,
+                    "startOffset": 74699,
                     "endLine": 893,
                     "endColumn": 12,
-                    "endOffset": 75180
+                    "endOffset": 75171
                 },
                 "from": {
                     "file": "/home/wenhui/Downloads/android-FingerprintDialog/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml",
@@ -5617,10 +5617,10 @@
                 "to": {
                     "startLine": 894,
                     "startColumn": 4,
-                    "startOffset": 75185,
+                    "startOffset": 75176,
                     "endLine": 899,
                     "endColumn": 12,
-                    "endOffset": 75533
+                    "endOffset": 75524
                 },
                 "from": {
                     "file": "/home/wenhui/Downloads/android-FingerprintDialog/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml",
@@ -5638,10 +5638,10 @@
                 "to": {
                     "startLine": 900,
                     "startColumn": 4,
-                    "startOffset": 75538,
+                    "startOffset": 75529,
                     "endLine": 904,
                     "endColumn": 12,
-                    "endOffset": 75860
+                    "endOffset": 75851
                 },
                 "from": {
                     "file": "/home/wenhui/Downloads/android-FingerprintDialog/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml",
@@ -5659,10 +5659,10 @@
                 "to": {
                     "startLine": 905,
                     "startColumn": 4,
-                    "startOffset": 75865,
+                    "startOffset": 75856,
                     "endLine": 908,
                     "endColumn": 12,
-                    "endOffset": 76166
+                    "endOffset": 76157
                 },
                 "from": {
                     "file": "/home/wenhui/Downloads/android-FingerprintDialog/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml",
@@ -5680,10 +5680,10 @@
                 "to": {
                     "startLine": 909,
                     "startColumn": 4,
-                    "startOffset": 76171,
+                    "startOffset": 76162,
                     "endLine": 913,
                     "endColumn": 12,
-                    "endOffset": 76428
+                    "endOffset": 76419
                 },
                 "from": {
                     "file": "/home/wenhui/Downloads/android-FingerprintDialog/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml",
@@ -5701,9 +5701,9 @@
                 "to": {
                     "startLine": 914,
                     "startColumn": 4,
-                    "startOffset": 76433,
+                    "startOffset": 76424,
                     "endColumn": 112,
-                    "endOffset": 76541
+                    "endOffset": 76532
                 },
                 "from": {
                     "file": "/home/wenhui/Downloads/android-FingerprintDialog/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml",
@@ -5720,9 +5720,9 @@
                 "to": {
                     "startLine": 915,
                     "startColumn": 4,
-                    "startOffset": 76546,
+                    "startOffset": 76537,
                     "endColumn": 114,
-                    "endOffset": 76656
+                    "endOffset": 76647
                 },
                 "from": {
                     "file": "/home/wenhui/Downloads/android-FingerprintDialog/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml",
@@ -5739,10 +5739,10 @@
                 "to": {
                     "startLine": 916,
                     "startColumn": 4,
-                    "startOffset": 76661,
+                    "startOffset": 76652,
                     "endLine": 918,
                     "endColumn": 12,
-                    "endOffset": 76895
+                    "endOffset": 76886
                 },
                 "from": {
                     "file": "/home/wenhui/Downloads/android-FingerprintDialog/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml",
@@ -5760,10 +5760,10 @@
                 "to": {
                     "startLine": 919,
                     "startColumn": 4,
-                    "startOffset": 76900,
+                    "startOffset": 76891,
                     "endLine": 921,
                     "endColumn": 12,
-                    "endOffset": 77106
+                    "endOffset": 77097
                 },
                 "from": {
                     "file": "/home/wenhui/Downloads/android-FingerprintDialog/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml",
@@ -5781,10 +5781,10 @@
                 "to": {
                     "startLine": 922,
                     "startColumn": 4,
-                    "startOffset": 77111,
+                    "startOffset": 77102,
                     "endLine": 924,
                     "endColumn": 12,
-                    "endOffset": 77323
+                    "endOffset": 77314
                 },
                 "from": {
                     "file": "/home/wenhui/Downloads/android-FingerprintDialog/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml",
@@ -5802,10 +5802,10 @@
                 "to": {
                     "startLine": 925,
                     "startColumn": 4,
-                    "startOffset": 77328,
+                    "startOffset": 77319,
                     "endLine": 927,
                     "endColumn": 12,
-                    "endOffset": 77541
+                    "endOffset": 77532
                 },
                 "from": {
                     "file": "/home/wenhui/Downloads/android-FingerprintDialog/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml",
@@ -5823,9 +5823,9 @@
                 "to": {
                     "startLine": 928,
                     "startColumn": 4,
-                    "startOffset": 77546,
+                    "startOffset": 77537,
                     "endColumn": 106,
-                    "endOffset": 77648
+                    "endOffset": 77639
                 },
                 "from": {
                     "file": "/home/wenhui/Downloads/android-FingerprintDialog/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml",
@@ -5842,10 +5842,10 @@
                 "to": {
                     "startLine": 929,
                     "startColumn": 4,
-                    "startOffset": 77653,
+                    "startOffset": 77644,
                     "endLine": 932,
                     "endColumn": 12,
-                    "endOffset": 77841
+                    "endOffset": 77832
                 },
                 "from": {
                     "file": "/home/wenhui/Downloads/android-FingerprintDialog/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml",
@@ -5863,10 +5863,10 @@
                 "to": {
                     "startLine": 933,
                     "startColumn": 4,
-                    "startOffset": 77846,
+                    "startOffset": 77837,
                     "endLine": 939,
                     "endColumn": 12,
-                    "endOffset": 78296
+                    "endOffset": 78287
                 },
                 "from": {
                     "file": "/home/wenhui/Downloads/android-FingerprintDialog/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml",
@@ -5884,10 +5884,10 @@
                 "to": {
                     "startLine": 940,
                     "startColumn": 4,
-                    "startOffset": 78301,
+                    "startOffset": 78292,
                     "endLine": 943,
                     "endColumn": 12,
-                    "endOffset": 78536
+                    "endOffset": 78527
                 },
                 "from": {
                     "file": "/home/wenhui/Downloads/android-FingerprintDialog/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml",
@@ -5905,10 +5905,10 @@
                 "to": {
                     "startLine": 944,
                     "startColumn": 4,
-                    "startOffset": 78541,
+                    "startOffset": 78532,
                     "endLine": 947,
                     "endColumn": 12,
-                    "endOffset": 78795
+                    "endOffset": 78786
                 },
                 "from": {
                     "file": "/home/wenhui/Downloads/android-FingerprintDialog/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml",
@@ -5926,9 +5926,9 @@
                 "to": {
                     "startLine": 948,
                     "startColumn": 4,
-                    "startOffset": 78800,
+                    "startOffset": 78791,
                     "endColumn": 100,
-                    "endOffset": 78896
+                    "endOffset": 78887
                 },
                 "from": {
                     "file": "/home/wenhui/Downloads/android-FingerprintDialog/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml",
@@ -5945,10 +5945,10 @@
                 "to": {
                     "startLine": 949,
                     "startColumn": 4,
-                    "startOffset": 78901,
+                    "startOffset": 78892,
                     "endLine": 952,
                     "endColumn": 12,
-                    "endOffset": 79083
+                    "endOffset": 79074
                 },
                 "from": {
                     "file": "/home/wenhui/Downloads/android-FingerprintDialog/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml",
@@ -5966,9 +5966,9 @@
                 "to": {
                     "startLine": 953,
                     "startColumn": 4,
-                    "startOffset": 79088,
+                    "startOffset": 79079,
                     "endColumn": 89,
-                    "endOffset": 79173
+                    "endOffset": 79164
                 },
                 "from": {
                     "file": "/home/wenhui/Downloads/android-FingerprintDialog/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml",
@@ -5985,10 +5985,10 @@
                 "to": {
                     "startLine": 954,
                     "startColumn": 4,
-                    "startOffset": 79178,
+                    "startOffset": 79169,
                     "endLine": 959,
                     "endColumn": 12,
-                    "endOffset": 79617
+                    "endOffset": 79608
                 },
                 "from": {
                     "file": "/home/wenhui/Downloads/android-FingerprintDialog/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml",
@@ -6006,9 +6006,9 @@
                 "to": {
                     "startLine": 960,
                     "startColumn": 4,
-                    "startOffset": 79622,
+                    "startOffset": 79613,
                     "endColumn": 111,
-                    "endOffset": 79729
+                    "endOffset": 79720
                 },
                 "from": {
                     "file": "/home/wenhui/Downloads/android-FingerprintDialog/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml",
@@ -6025,10 +6025,10 @@
                 "to": {
                     "startLine": 961,
                     "startColumn": 4,
-                    "startOffset": 79734,
+                    "startOffset": 79725,
                     "endLine": 971,
                     "endColumn": 12,
-                    "endOffset": 80534
+                    "endOffset": 80525
                 },
                 "from": {
                     "file": "/home/wenhui/Downloads/android-FingerprintDialog/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml",
@@ -6046,10 +6046,10 @@
                 "to": {
                     "startLine": 972,
                     "startColumn": 4,
-                    "startOffset": 80539,
+                    "startOffset": 80530,
                     "endLine": 976,
                     "endColumn": 12,
-                    "endOffset": 80864
+                    "endOffset": 80855
                 },
                 "from": {
                     "file": "/home/wenhui/Downloads/android-FingerprintDialog/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml",
@@ -6067,10 +6067,10 @@
                 "to": {
                     "startLine": 977,
                     "startColumn": 4,
-                    "startOffset": 80869,
+                    "startOffset": 80860,
                     "endLine": 990,
                     "endColumn": 12,
-                    "endOffset": 81783
+                    "endOffset": 81774
                 },
                 "from": {
                     "file": "/home/wenhui/Downloads/android-FingerprintDialog/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml",
@@ -6088,10 +6088,10 @@
                 "to": {
                     "startLine": 991,
                     "startColumn": 4,
-                    "startOffset": 81788,
+                    "startOffset": 81779,
                     "endLine": 1000,
                     "endColumn": 12,
-                    "endOffset": 82449
+                    "endOffset": 82440
                 },
                 "from": {
                     "file": "/home/wenhui/Downloads/android-FingerprintDialog/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml",
@@ -6109,10 +6109,10 @@
                 "to": {
                     "startLine": 1001,
                     "startColumn": 4,
-                    "startOffset": 82454,
+                    "startOffset": 82445,
                     "endLine": 1005,
                     "endColumn": 12,
-                    "endOffset": 82734
+                    "endOffset": 82725
                 },
                 "from": {
                     "file": "/home/wenhui/Downloads/android-FingerprintDialog/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml",
@@ -6130,10 +6130,10 @@
                 "to": {
                     "startLine": 1006,
                     "startColumn": 4,
-                    "startOffset": 82739,
+                    "startOffset": 82730,
                     "endLine": 1013,
                     "endColumn": 12,
-                    "endOffset": 83200
+                    "endOffset": 83191
                 },
                 "from": {
                     "file": "/home/wenhui/Downloads/android-FingerprintDialog/Application/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.0.0/res/values/values.xml",
@@ -6151,10 +6151,10 @@
                 "to": {
                     "startLine": 1014,
                     "startColumn": 4,
-                    "startOffset": 83205,
+                    "startOffset": 83196,
                     "endLine": 1016,
                     "endColumn": 12,
-                    "endOffset": 83326
+                    "endOffset": 83317
                 },
                 "from": {
                     "file": "/home/wenhui/Downloads/android-FingerprintDialog/Application/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.0.0/res/values/values.xml",
@@ -6172,10 +6172,10 @@
                 "to": {
                     "startLine": 1017,
                     "startColumn": 4,
-                    "startOffset": 83331,
+                    "startOffset": 83322,
                     "endLine": 1019,
                     "endColumn": 12,
-                    "endOffset": 83454
+                    "endOffset": 83445
                 },
                 "from": {
                     "file": "/home/wenhui/Downloads/android-FingerprintDialog/Application/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.0.0/res/values/values.xml",
@@ -6193,10 +6193,10 @@
                 "to": {
                     "startLine": 1020,
                     "startColumn": 4,
-                    "startOffset": 83459,
+                    "startOffset": 83450,
                     "endLine": 1060,
                     "endColumn": 12,
-                    "endOffset": 86633
+                    "endOffset": 86624
                 },
                 "from": {
                     "file": "/home/wenhui/Downloads/android-FingerprintDialog/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml",
@@ -6214,10 +6214,10 @@
                 "to": {
                     "startLine": 1061,
                     "startColumn": 4,
-                    "startOffset": 86638,
+                    "startOffset": 86629,
                     "endLine": 1101,
                     "endColumn": 12,
-                    "endOffset": 89826
+                    "endOffset": 89817
                 },
                 "from": {
                     "file": "/home/wenhui/Downloads/android-FingerprintDialog/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml",
@@ -6235,10 +6235,10 @@
                 "to": {
                     "startLine": 1102,
                     "startColumn": 4,
-                    "startOffset": 89831,
+                    "startOffset": 89822,
                     "endLine": 1143,
                     "endColumn": 12,
-                    "endOffset": 93145
+                    "endOffset": 93136
                 },
                 "from": {
                     "file": "/home/wenhui/Downloads/android-FingerprintDialog/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml",
@@ -6256,9 +6256,9 @@
                 "to": {
                     "startLine": 1144,
                     "startColumn": 4,
-                    "startOffset": 93150,
+                    "startOffset": 93141,
                     "endColumn": 86,
-                    "endOffset": 93232
+                    "endOffset": 93223
                 },
                 "from": {
                     "file": "/home/wenhui/Downloads/android-FingerprintDialog/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml",
@@ -6275,10 +6275,10 @@
                 "to": {
                     "startLine": 1145,
                     "startColumn": 4,
-                    "startOffset": 93237,
+                    "startOffset": 93228,
                     "endLine": 1148,
                     "endColumn": 12,
-                    "endOffset": 93461
+                    "endOffset": 93452
                 },
                 "from": {
                     "file": "/home/wenhui/Downloads/android-FingerprintDialog/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml",
@@ -6296,10 +6296,10 @@
                 "to": {
                     "startLine": 1149,
                     "startColumn": 4,
-                    "startOffset": 93466,
+                    "startOffset": 93457,
                     "endLine": 1152,
                     "endColumn": 12,
-                    "endOffset": 93710
+                    "endOffset": 93701
                 },
                 "from": {
                     "file": "/home/wenhui/Downloads/android-FingerprintDialog/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml",
@@ -6317,10 +6317,10 @@
                 "to": {
                     "startLine": 1153,
                     "startColumn": 4,
-                    "startOffset": 93715,
+                    "startOffset": 93706,
                     "endLine": 1156,
                     "endColumn": 12,
-                    "endOffset": 93951
+                    "endOffset": 93942
                 },
                 "from": {
                     "file": "/home/wenhui/Downloads/android-FingerprintDialog/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml",
@@ -6338,10 +6338,10 @@
                 "to": {
                     "startLine": 1157,
                     "startColumn": 4,
-                    "startOffset": 93956,
+                    "startOffset": 93947,
                     "endLine": 1159,
                     "endColumn": 12,
-                    "endOffset": 94103
+                    "endOffset": 94094
                 },
                 "from": {
                     "file": "/home/wenhui/Downloads/android-FingerprintDialog/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml",
@@ -6359,10 +6359,10 @@
                 "to": {
                     "startLine": 1160,
                     "startColumn": 4,
-                    "startOffset": 94108,
+                    "startOffset": 94099,
                     "endLine": 1162,
                     "endColumn": 12,
-                    "endOffset": 94274
+                    "endOffset": 94265
                 },
                 "from": {
                     "file": "/home/wenhui/Downloads/android-FingerprintDialog/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml",
@@ -6380,10 +6380,10 @@
                 "to": {
                     "startLine": 1163,
                     "startColumn": 4,
-                    "startOffset": 94279,
+                    "startOffset": 94270,
                     "endLine": 1165,
                     "endColumn": 12,
-                    "endOffset": 94441
+                    "endOffset": 94432
                 },
                 "from": {
                     "file": "/home/wenhui/Downloads/android-FingerprintDialog/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml",
@@ -6401,10 +6401,10 @@
                 "to": {
                     "startLine": 1166,
                     "startColumn": 4,
-                    "startOffset": 94446,
+                    "startOffset": 94437,
                     "endLine": 1169,
                     "endColumn": 12,
-                    "endOffset": 94684
+                    "endOffset": 94675
                 },
                 "from": {
                     "file": "/home/wenhui/Downloads/android-FingerprintDialog/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml",
@@ -6422,10 +6422,10 @@
                 "to": {
                     "startLine": 1170,
                     "startColumn": 4,
-                    "startOffset": 94689,
+                    "startOffset": 94680,
                     "endLine": 1172,
                     "endColumn": 12,
-                    "endOffset": 94854
+                    "endOffset": 94845
                 },
                 "from": {
                     "file": "/home/wenhui/Downloads/android-FingerprintDialog/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml",
@@ -6443,10 +6443,10 @@
                 "to": {
                     "startLine": 1173,
                     "startColumn": 4,
-                    "startOffset": 94859,
+                    "startOffset": 94850,
                     "endLine": 1175,
                     "endColumn": 12,
-                    "endOffset": 95027
+                    "endOffset": 95018
                 },
                 "from": {
                     "file": "/home/wenhui/Downloads/android-FingerprintDialog/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml",
@@ -6464,10 +6464,10 @@
                 "to": {
                     "startLine": 1176,
                     "startColumn": 4,
-                    "startOffset": 95032,
+                    "startOffset": 95023,
                     "endLine": 1178,
                     "endColumn": 12,
-                    "endOffset": 95198
+                    "endOffset": 95189
                 },
                 "from": {
                     "file": "/home/wenhui/Downloads/android-FingerprintDialog/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml",
@@ -6485,10 +6485,10 @@
                 "to": {
                     "startLine": 1179,
                     "startColumn": 4,
-                    "startOffset": 95203,
+                    "startOffset": 95194,
                     "endLine": 1182,
                     "endColumn": 12,
-                    "endOffset": 95472
+                    "endOffset": 95463
                 },
                 "from": {
                     "file": "/home/wenhui/Downloads/android-FingerprintDialog/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml",
@@ -6506,10 +6506,10 @@
                 "to": {
                     "startLine": 1183,
                     "startColumn": 4,
-                    "startOffset": 95477,
+                    "startOffset": 95468,
                     "endLine": 1185,
                     "endColumn": 12,
-                    "endOffset": 95671
+                    "endOffset": 95662
                 },
                 "from": {
                     "file": "/home/wenhui/Downloads/android-FingerprintDialog/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml",
@@ -6527,9 +6527,9 @@
                 "to": {
                     "startLine": 1186,
                     "startColumn": 4,
-                    "startOffset": 95676,
+                    "startOffset": 95667,
                     "endColumn": 83,
-                    "endOffset": 95755
+                    "endOffset": 95746
                 },
                 "from": {
                     "file": "/home/wenhui/Downloads/android-FingerprintDialog/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml",
@@ -6546,9 +6546,9 @@
                 "to": {
                     "startLine": 1187,
                     "startColumn": 4,
-                    "startOffset": 95760,
+                    "startOffset": 95751,
                     "endColumn": 95,
-                    "endOffset": 95851
+                    "endOffset": 95842
                 },
                 "from": {
                     "file": "/home/wenhui/Downloads/android-FingerprintDialog/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml",
@@ -6565,9 +6565,9 @@
                 "to": {
                     "startLine": 1188,
                     "startColumn": 4,
-                    "startOffset": 95856,
+                    "startOffset": 95847,
                     "endColumn": 95,
-                    "endOffset": 95947
+                    "endOffset": 95938
                 },
                 "from": {
                     "file": "/home/wenhui/Downloads/android-FingerprintDialog/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml",
@@ -6584,9 +6584,9 @@
                 "to": {
                     "startLine": 1189,
                     "startColumn": 4,
-                    "startOffset": 95952,
+                    "startOffset": 95943,
                     "endColumn": 97,
-                    "endOffset": 96045
+                    "endOffset": 96036
                 },
                 "from": {
                     "file": "/home/wenhui/Downloads/android-FingerprintDialog/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml",
@@ -6603,9 +6603,9 @@
                 "to": {
                     "startLine": 1190,
                     "startColumn": 4,
-                    "startOffset": 96050,
+                    "startOffset": 96041,
                     "endColumn": 99,
-                    "endOffset": 96145
+                    "endOffset": 96136
                 },
                 "from": {
                     "file": "/home/wenhui/Downloads/android-FingerprintDialog/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml",
@@ -6622,9 +6622,9 @@
                 "to": {
                     "startLine": 1191,
                     "startColumn": 4,
-                    "startOffset": 96150,
+                    "startOffset": 96141,
                     "endColumn": 101,
-                    "endOffset": 96247
+                    "endOffset": 96238
                 },
                 "from": {
                     "file": "/home/wenhui/Downloads/android-FingerprintDialog/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml",
@@ -6641,9 +6641,9 @@
                 "to": {
                     "startLine": 1192,
                     "startColumn": 4,
-                    "startOffset": 96252,
+                    "startOffset": 96243,
                     "endColumn": 101,
-                    "endOffset": 96349
+                    "endOffset": 96340
                 },
                 "from": {
                     "file": "/home/wenhui/Downloads/android-FingerprintDialog/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml",
@@ -6660,9 +6660,9 @@
                 "to": {
                     "startLine": 1193,
                     "startColumn": 4,
-                    "startOffset": 96354,
+                    "startOffset": 96345,
                     "endColumn": 101,
-                    "endOffset": 96451
+                    "endOffset": 96442
                 },
                 "from": {
                     "file": "/home/wenhui/Downloads/android-FingerprintDialog/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml",
@@ -6679,9 +6679,9 @@
                 "to": {
                     "startLine": 1194,
                     "startColumn": 4,
-                    "startOffset": 96456,
+                    "startOffset": 96447,
                     "endColumn": 101,
-                    "endOffset": 96553
+                    "endOffset": 96544
                 },
                 "from": {
                     "file": "/home/wenhui/Downloads/android-FingerprintDialog/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml",
@@ -6698,9 +6698,9 @@
                 "to": {
                     "startLine": 1195,
                     "startColumn": 4,
-                    "startOffset": 96558,
+                    "startOffset": 96549,
                     "endColumn": 101,
-                    "endOffset": 96655
+                    "endOffset": 96646
                 },
                 "from": {
                     "file": "/home/wenhui/Downloads/android-FingerprintDialog/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml",
@@ -6717,9 +6717,9 @@
                 "to": {
                     "startLine": 1196,
                     "startColumn": 4,
-                    "startOffset": 96660,
+                    "startOffset": 96651,
                     "endColumn": 99,
-                    "endOffset": 96755
+                    "endOffset": 96746
                 },
                 "from": {
                     "file": "/home/wenhui/Downloads/android-FingerprintDialog/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml",
@@ -6736,9 +6736,9 @@
                 "to": {
                     "startLine": 1197,
                     "startColumn": 4,
-                    "startOffset": 96760,
+                    "startOffset": 96751,
                     "endColumn": 95,
-                    "endOffset": 96851
+                    "endOffset": 96842
                 },
                 "from": {
                     "file": "/home/wenhui/Downloads/android-FingerprintDialog/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml",
@@ -6755,9 +6755,9 @@
                 "to": {
                     "startLine": 1198,
                     "startColumn": 4,
-                    "startOffset": 96856,
+                    "startOffset": 96847,
                     "endColumn": 111,
-                    "endOffset": 96963
+                    "endOffset": 96954
                 },
                 "from": {
                     "file": "/home/wenhui/Downloads/android-FingerprintDialog/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml",
@@ -6774,9 +6774,9 @@
                 "to": {
                     "startLine": 1199,
                     "startColumn": 4,
-                    "startOffset": 96968,
+                    "startOffset": 96959,
                     "endColumn": 128,
-                    "endOffset": 97092
+                    "endOffset": 97083
                 },
                 "from": {
                     "file": "/home/wenhui/Downloads/android-FingerprintDialog/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml",
@@ -6793,9 +6793,9 @@
                 "to": {
                     "startLine": 1200,
                     "startColumn": 4,
-                    "startOffset": 97097,
+                    "startOffset": 97088,
                     "endColumn": 122,
-                    "endOffset": 97215
+                    "endOffset": 97206
                 },
                 "from": {
                     "file": "/home/wenhui/Downloads/android-FingerprintDialog/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml",
@@ -6812,9 +6812,9 @@
                 "to": {
                     "startLine": 1201,
                     "startColumn": 4,
-                    "startOffset": 97220,
+                    "startOffset": 97211,
                     "endColumn": 141,
-                    "endOffset": 97357
+                    "endOffset": 97348
                 },
                 "from": {
                     "file": "/home/wenhui/Downloads/android-FingerprintDialog/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml",
@@ -6831,9 +6831,9 @@
                 "to": {
                     "startLine": 1202,
                     "startColumn": 4,
-                    "startOffset": 97362,
+                    "startOffset": 97353,
                     "endColumn": 141,
-                    "endOffset": 97499
+                    "endOffset": 97490
                 },
                 "from": {
                     "file": "/home/wenhui/Downloads/android-FingerprintDialog/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml",
@@ -6850,9 +6850,9 @@
                 "to": {
                     "startLine": 1203,
                     "startColumn": 4,
-                    "startOffset": 97504,
+                    "startOffset": 97495,
                     "endColumn": 97,
-                    "endOffset": 97597
+                    "endOffset": 97588
                 },
                 "from": {
                     "file": "/home/wenhui/Downloads/android-FingerprintDialog/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml",
@@ -6869,9 +6869,9 @@
                 "to": {
                     "startLine": 1204,
                     "startColumn": 4,
-                    "startOffset": 97602,
+                    "startOffset": 97593,
                     "endColumn": 113,
-                    "endOffset": 97711
+                    "endOffset": 97702
                 },
                 "from": {
                     "file": "/home/wenhui/Downloads/android-FingerprintDialog/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml",
@@ -6888,9 +6888,9 @@
                 "to": {
                     "startLine": 1205,
                     "startColumn": 4,
-                    "startOffset": 97716,
+                    "startOffset": 97707,
                     "endColumn": 93,
-                    "endOffset": 97805
+                    "endOffset": 97796
                 },
                 "from": {
                     "file": "/home/wenhui/Downloads/android-FingerprintDialog/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml",
@@ -6907,9 +6907,9 @@
                 "to": {
                     "startLine": 1206,
                     "startColumn": 4,
-                    "startOffset": 97810,
+                    "startOffset": 97801,
                     "endColumn": 127,
-                    "endOffset": 97933
+                    "endOffset": 97924
                 },
                 "from": {
                     "file": "/home/wenhui/Downloads/android-FingerprintDialog/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml",
@@ -6926,9 +6926,9 @@
                 "to": {
                     "startLine": 1207,
                     "startColumn": 4,
-                    "startOffset": 97938,
+                    "startOffset": 97929,
                     "endColumn": 121,
-                    "endOffset": 98055
+                    "endOffset": 98046
                 },
                 "from": {
                     "file": "/home/wenhui/Downloads/android-FingerprintDialog/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml",
@@ -6945,9 +6945,9 @@
                 "to": {
                     "startLine": 1208,
                     "startColumn": 4,
-                    "startOffset": 98060,
+                    "startOffset": 98051,
                     "endColumn": 95,
-                    "endOffset": 98151
+                    "endOffset": 98142
                 },
                 "from": {
                     "file": "/home/wenhui/Downloads/android-FingerprintDialog/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml",
@@ -6964,9 +6964,9 @@
                 "to": {
                     "startLine": 1209,
                     "startColumn": 4,
-                    "startOffset": 98156,
+                    "startOffset": 98147,
                     "endColumn": 111,
-                    "endOffset": 98263
+                    "endOffset": 98254
                 },
                 "from": {
                     "file": "/home/wenhui/Downloads/android-FingerprintDialog/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml",
@@ -6983,9 +6983,9 @@
                 "to": {
                     "startLine": 1210,
                     "startColumn": 4,
-                    "startOffset": 98268,
+                    "startOffset": 98259,
                     "endColumn": 99,
-                    "endOffset": 98363
+                    "endOffset": 98354
                 },
                 "from": {
                     "file": "/home/wenhui/Downloads/android-FingerprintDialog/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml",
@@ -7002,9 +7002,9 @@
                 "to": {
                     "startLine": 1211,
                     "startColumn": 4,
-                    "startOffset": 98368,
+                    "startOffset": 98359,
                     "endColumn": 115,
-                    "endOffset": 98479
+                    "endOffset": 98470
                 },
                 "from": {
                     "file": "/home/wenhui/Downloads/android-FingerprintDialog/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml",
@@ -7021,9 +7021,9 @@
                 "to": {
                     "startLine": 1212,
                     "startColumn": 4,
-                    "startOffset": 98484,
+                    "startOffset": 98475,
                     "endColumn": 95,
-                    "endOffset": 98575
+                    "endOffset": 98566
                 },
                 "from": {
                     "file": "/home/wenhui/Downloads/android-FingerprintDialog/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml",
@@ -7040,9 +7040,9 @@
                 "to": {
                     "startLine": 1213,
                     "startColumn": 4,
-                    "startOffset": 98580,
+                    "startOffset": 98571,
                     "endColumn": 111,
-                    "endOffset": 98687
+                    "endOffset": 98678
                 },
                 "from": {
                     "file": "/home/wenhui/Downloads/android-FingerprintDialog/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml",
@@ -7059,9 +7059,9 @@
                 "to": {
                     "startLine": 1214,
                     "startColumn": 4,
-                    "startOffset": 98692,
+                    "startOffset": 98683,
                     "endColumn": 127,
-                    "endOffset": 98815
+                    "endOffset": 98806
                 },
                 "from": {
                     "file": "/home/wenhui/Downloads/android-FingerprintDialog/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml",
@@ -7078,9 +7078,9 @@
                 "to": {
                     "startLine": 1215,
                     "startColumn": 4,
-                    "startOffset": 98820,
+                    "startOffset": 98811,
                     "endColumn": 135,
-                    "endOffset": 98951
+                    "endOffset": 98942
                 },
                 "from": {
                     "file": "/home/wenhui/Downloads/android-FingerprintDialog/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml",
@@ -7097,9 +7097,9 @@
                 "to": {
                     "startLine": 1216,
                     "startColumn": 4,
-                    "startOffset": 98956,
+                    "startOffset": 98947,
                     "endColumn": 151,
-                    "endOffset": 99103
+                    "endOffset": 99094
                 },
                 "from": {
                     "file": "/home/wenhui/Downloads/android-FingerprintDialog/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml",
@@ -7116,9 +7116,9 @@
                 "to": {
                     "startLine": 1217,
                     "startColumn": 4,
-                    "startOffset": 99108,
+                    "startOffset": 99099,
                     "endColumn": 129,
-                    "endOffset": 99233
+                    "endOffset": 99224
                 },
                 "from": {
                     "file": "/home/wenhui/Downloads/android-FingerprintDialog/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml",
@@ -7135,9 +7135,9 @@
                 "to": {
                     "startLine": 1218,
                     "startColumn": 4,
-                    "startOffset": 99238,
+                    "startOffset": 99229,
                     "endColumn": 145,
-                    "endOffset": 99379
+                    "endOffset": 99370
                 },
                 "from": {
                     "file": "/home/wenhui/Downloads/android-FingerprintDialog/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml",
@@ -7154,9 +7154,9 @@
                 "to": {
                     "startLine": 1219,
                     "startColumn": 4,
-                    "startOffset": 99384,
+                    "startOffset": 99375,
                     "endColumn": 137,
-                    "endOffset": 99517
+                    "endOffset": 99508
                 },
                 "from": {
                     "file": "/home/wenhui/Downloads/android-FingerprintDialog/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml",
@@ -7173,9 +7173,9 @@
                 "to": {
                     "startLine": 1220,
                     "startColumn": 4,
-                    "startOffset": 99522,
+                    "startOffset": 99513,
                     "endColumn": 140,
-                    "endOffset": 99658
+                    "endOffset": 99649
                 },
                 "from": {
                     "file": "/home/wenhui/Downloads/android-FingerprintDialog/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml",
@@ -7192,9 +7192,9 @@
                 "to": {
                     "startLine": 1221,
                     "startColumn": 4,
-                    "startOffset": 99663,
+                    "startOffset": 99654,
                     "endColumn": 131,
-                    "endOffset": 99790
+                    "endOffset": 99781
                 },
                 "from": {
                     "file": "/home/wenhui/Downloads/android-FingerprintDialog/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml",
@@ -7211,9 +7211,9 @@
                 "to": {
                     "startLine": 1222,
                     "startColumn": 4,
-                    "startOffset": 99795,
+                    "startOffset": 99786,
                     "endColumn": 134,
-                    "endOffset": 99925
+                    "endOffset": 99916
                 },
                 "from": {
                     "file": "/home/wenhui/Downloads/android-FingerprintDialog/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml",
@@ -7230,9 +7230,9 @@
                 "to": {
                     "startLine": 1223,
                     "startColumn": 4,
-                    "startOffset": 99930,
+                    "startOffset": 99921,
                     "endColumn": 123,
-                    "endOffset": 100049
+                    "endOffset": 100040
                 },
                 "from": {
                     "file": "/home/wenhui/Downloads/android-FingerprintDialog/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml",
@@ -7249,9 +7249,9 @@
                 "to": {
                     "startLine": 1224,
                     "startColumn": 4,
-                    "startOffset": 100054,
+                    "startOffset": 100045,
                     "endColumn": 129,
-                    "endOffset": 100179
+                    "endOffset": 100170
                 },
                 "from": {
                     "file": "/home/wenhui/Downloads/android-FingerprintDialog/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml",
@@ -7268,9 +7268,9 @@
                 "to": {
                     "startLine": 1225,
                     "startColumn": 4,
-                    "startOffset": 100184,
+                    "startOffset": 100175,
                     "endColumn": 129,
-                    "endOffset": 100309
+                    "endOffset": 100300
                 },
                 "from": {
                     "file": "/home/wenhui/Downloads/android-FingerprintDialog/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml",
@@ -7287,9 +7287,9 @@
                 "to": {
                     "startLine": 1226,
                     "startColumn": 4,
-                    "startOffset": 100314,
+                    "startOffset": 100305,
                     "endColumn": 111,
-                    "endOffset": 100421
+                    "endOffset": 100412
                 },
                 "from": {
                     "file": "/home/wenhui/Downloads/android-FingerprintDialog/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml",
@@ -7306,9 +7306,9 @@
                 "to": {
                     "startLine": 1227,
                     "startColumn": 4,
-                    "startOffset": 100426,
+                    "startOffset": 100417,
                     "endColumn": 133,
-                    "endOffset": 100555
+                    "endOffset": 100546
                 },
                 "from": {
                     "file": "/home/wenhui/Downloads/android-FingerprintDialog/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml",
@@ -7325,9 +7325,9 @@
                 "to": {
                     "startLine": 1228,
                     "startColumn": 4,
-                    "startOffset": 100560,
+                    "startOffset": 100551,
                     "endColumn": 131,
-                    "endOffset": 100687
+                    "endOffset": 100678
                 },
                 "from": {
                     "file": "/home/wenhui/Downloads/android-FingerprintDialog/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml",
@@ -7344,9 +7344,9 @@
                 "to": {
                     "startLine": 1229,
                     "startColumn": 4,
-                    "startOffset": 100692,
+                    "startOffset": 100683,
                     "endColumn": 125,
-                    "endOffset": 100813
+                    "endOffset": 100804
                 },
                 "from": {
                     "file": "/home/wenhui/Downloads/android-FingerprintDialog/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml",
@@ -7363,9 +7363,9 @@
                 "to": {
                     "startLine": 1230,
                     "startColumn": 4,
-                    "startOffset": 100818,
+                    "startOffset": 100809,
                     "endColumn": 65,
-                    "endOffset": 100879
+                    "endOffset": 100870
                 },
                 "from": {
                     "file": "/home/wenhui/Downloads/android-FingerprintDialog/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml",
@@ -7382,9 +7382,9 @@
                 "to": {
                     "startLine": 1231,
                     "startColumn": 4,
-                    "startOffset": 100884,
+                    "startOffset": 100875,
                     "endColumn": 89,
-                    "endOffset": 100969
+                    "endOffset": 100960
                 },
                 "from": {
                     "file": "/home/wenhui/Downloads/android-FingerprintDialog/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml",
@@ -7401,9 +7401,9 @@
                 "to": {
                     "startLine": 1232,
                     "startColumn": 4,
-                    "startOffset": 100974,
+                    "startOffset": 100965,
                     "endColumn": 79,
-                    "endOffset": 101049
+                    "endOffset": 101040
                 },
                 "from": {
                     "file": "/home/wenhui/Downloads/android-FingerprintDialog/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml",
@@ -7420,9 +7420,9 @@
                 "to": {
                     "startLine": 1233,
                     "startColumn": 4,
-                    "startOffset": 101054,
+                    "startOffset": 101045,
                     "endColumn": 97,
-                    "endOffset": 101147
+                    "endOffset": 101138
                 },
                 "from": {
                     "file": "/home/wenhui/Downloads/android-FingerprintDialog/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml",
@@ -7439,9 +7439,9 @@
                 "to": {
                     "startLine": 1234,
                     "startColumn": 4,
-                    "startOffset": 101152,
+                    "startOffset": 101143,
                     "endColumn": 77,
-                    "endOffset": 101225
+                    "endOffset": 101216
                 },
                 "from": {
                     "file": "/home/wenhui/Downloads/android-FingerprintDialog/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml",
@@ -7458,9 +7458,9 @@
                 "to": {
                     "startLine": 1235,
                     "startColumn": 4,
-                    "startOffset": 101230,
+                    "startOffset": 101221,
                     "endColumn": 105,
-                    "endOffset": 101331
+                    "endOffset": 101322
                 },
                 "from": {
                     "file": "/home/wenhui/Downloads/android-FingerprintDialog/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml",
@@ -7477,9 +7477,9 @@
                 "to": {
                     "startLine": 1236,
                     "startColumn": 4,
-                    "startOffset": 101336,
+                    "startOffset": 101327,
                     "endColumn": 91,
-                    "endOffset": 101423
+                    "endOffset": 101414
                 },
                 "from": {
                     "file": "/home/wenhui/Downloads/android-FingerprintDialog/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml",
@@ -7496,9 +7496,9 @@
                 "to": {
                     "startLine": 1237,
                     "startColumn": 4,
-                    "startOffset": 101428,
+                    "startOffset": 101419,
                     "endColumn": 109,
-                    "endOffset": 101533
+                    "endOffset": 101524
                 },
                 "from": {
                     "file": "/home/wenhui/Downloads/android-FingerprintDialog/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml",
@@ -7515,10 +7515,10 @@
                 "to": {
                     "startLine": 1238,
                     "startColumn": 4,
-                    "startOffset": 101538,
+                    "startOffset": 101529,
                     "endLine": 1241,
                     "endColumn": 12,
-                    "endOffset": 101704
+                    "endOffset": 101695
                 },
                 "from": {
                     "file": "/home/wenhui/Downloads/android-FingerprintDialog/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml",
@@ -7536,10 +7536,10 @@
                 "to": {
                     "startLine": 1242,
                     "startColumn": 4,
-                    "startOffset": 101709,
+                    "startOffset": 101700,
                     "endLine": 1245,
                     "endColumn": 12,
-                    "endOffset": 101869
+                    "endOffset": 101860
                 },
                 "from": {
                     "file": "/home/wenhui/Downloads/android-FingerprintDialog/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml",
@@ -7557,9 +7557,9 @@
                 "to": {
                     "startLine": 1246,
                     "startColumn": 4,
-                    "startOffset": 101874,
+                    "startOffset": 101865,
                     "endColumn": 59,
-                    "endOffset": 101929
+                    "endOffset": 101920
                 },
                 "from": {
                     "file": "/home/wenhui/Downloads/android-FingerprintDialog/Application/src/main/res/values/template-styles.xml",
@@ -7576,9 +7576,9 @@
                 "to": {
                     "startLine": 1247,
                     "startColumn": 4,
-                    "startOffset": 101934,
+                    "startOffset": 101925,
                     "endColumn": 52,
-                    "endOffset": 101982
+                    "endOffset": 101973
                 },
                 "from": {
                     "file": "/home/wenhui/Downloads/android-FingerprintDialog/Application/src/main/res/values/template-styles.xml",
@@ -7595,9 +7595,9 @@
                 "to": {
                     "startLine": 1248,
                     "startColumn": 4,
-                    "startOffset": 101987,
+                    "startOffset": 101978,
                     "endColumn": 79,
-                    "endOffset": 102062
+                    "endOffset": 102053
                 },
                 "from": {
                     "file": "/home/wenhui/Downloads/android-FingerprintDialog/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml",
@@ -7614,9 +7614,9 @@
                 "to": {
                     "startLine": 1249,
                     "startColumn": 4,
-                    "startOffset": 102067,
+                    "startOffset": 102058,
                     "endColumn": 99,
-                    "endOffset": 102162
+                    "endOffset": 102153
                 },
                 "from": {
                     "file": "/home/wenhui/Downloads/android-FingerprintDialog/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml",
@@ -7633,9 +7633,9 @@
                 "to": {
                     "startLine": 1250,
                     "startColumn": 4,
-                    "startOffset": 102167,
+                    "startOffset": 102158,
                     "endColumn": 89,
-                    "endOffset": 102252
+                    "endOffset": 102243
                 },
                 "from": {
                     "file": "/home/wenhui/Downloads/android-FingerprintDialog/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml",
@@ -7652,9 +7652,9 @@
                 "to": {
                     "startLine": 1251,
                     "startColumn": 4,
-                    "startOffset": 102257,
+                    "startOffset": 102248,
                     "endColumn": 109,
-                    "endOffset": 102362
+                    "endOffset": 102353
                 },
                 "from": {
                     "file": "/home/wenhui/Downloads/android-FingerprintDialog/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml",
@@ -7671,9 +7671,9 @@
                 "to": {
                     "startLine": 1252,
                     "startColumn": 4,
-                    "startOffset": 102367,
+                    "startOffset": 102358,
                     "endColumn": 91,
-                    "endOffset": 102454
+                    "endOffset": 102445
                 },
                 "from": {
                     "file": "/home/wenhui/Downloads/android-FingerprintDialog/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml",
@@ -7690,9 +7690,9 @@
                 "to": {
                     "startLine": 1253,
                     "startColumn": 4,
-                    "startOffset": 102459,
+                    "startOffset": 102450,
                     "endColumn": 26,
-                    "endOffset": 102481
+                    "endOffset": 102472
                 },
                 "from": {
                     "file": "/home/wenhui/Downloads/android-FingerprintDialog/Application/src/main/res/values/template-styles.xml",
@@ -7709,9 +7709,9 @@
                 "to": {
                     "startLine": 1254,
                     "startColumn": 4,
-                    "startOffset": 102486,
+                    "startOffset": 102477,
                     "endColumn": 87,
-                    "endOffset": 102569
+                    "endOffset": 102560
                 },
                 "from": {
                     "file": "/home/wenhui/Downloads/android-FingerprintDialog/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml",
@@ -7728,9 +7728,9 @@
                 "to": {
                     "startLine": 1255,
                     "startColumn": 4,
-                    "startOffset": 102574,
+                    "startOffset": 102565,
                     "endColumn": 99,
-                    "endOffset": 102669
+                    "endOffset": 102660
                 },
                 "from": {
                     "file": "/home/wenhui/Downloads/android-FingerprintDialog/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml",
@@ -7747,9 +7747,9 @@
                 "to": {
                     "startLine": 1256,
                     "startColumn": 4,
-                    "startOffset": 102674,
+                    "startOffset": 102665,
                     "endColumn": 101,
-                    "endOffset": 102771
+                    "endOffset": 102762
                 },
                 "from": {
                     "file": "/home/wenhui/Downloads/android-FingerprintDialog/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml",
@@ -7766,9 +7766,9 @@
                 "to": {
                     "startLine": 1257,
                     "startColumn": 4,
-                    "startOffset": 102776,
+                    "startOffset": 102767,
                     "endColumn": 103,
-                    "endOffset": 102875
+                    "endOffset": 102866
                 },
                 "from": {
                     "file": "/home/wenhui/Downloads/android-FingerprintDialog/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml",
@@ -7785,9 +7785,9 @@
                 "to": {
                     "startLine": 1258,
                     "startColumn": 4,
-                    "startOffset": 102880,
+                    "startOffset": 102871,
                     "endColumn": 103,
-                    "endOffset": 102979
+                    "endOffset": 102970
                 },
                 "from": {
                     "file": "/home/wenhui/Downloads/android-FingerprintDialog/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml",
@@ -7804,9 +7804,9 @@
                 "to": {
                     "startLine": 1259,
                     "startColumn": 4,
-                    "startOffset": 102984,
+                    "startOffset": 102975,
                     "endColumn": 93,
-                    "endOffset": 103073
+                    "endOffset": 103064
                 },
                 "from": {
                     "file": "/home/wenhui/Downloads/android-FingerprintDialog/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml",
@@ -7823,9 +7823,9 @@
                 "to": {
                     "startLine": 1260,
                     "startColumn": 4,
-                    "startOffset": 103078,
+                    "startOffset": 103069,
                     "endColumn": 119,
-                    "endOffset": 103193
+                    "endOffset": 103184
                 },
                 "from": {
                     "file": "/home/wenhui/Downloads/android-FingerprintDialog/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml",
@@ -7842,9 +7842,9 @@
                 "to": {
                     "startLine": 1261,
                     "startColumn": 4,
-                    "startOffset": 103198,
+                    "startOffset": 103189,
                     "endColumn": 117,
-                    "endOffset": 103311
+                    "endOffset": 103302
                 },
                 "from": {
                     "file": "/home/wenhui/Downloads/android-FingerprintDialog/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml",
@@ -7861,9 +7861,9 @@
                 "to": {
                     "startLine": 1262,
                     "startColumn": 4,
-                    "startOffset": 103316,
+                    "startOffset": 103307,
                     "endColumn": 89,
-                    "endOffset": 103401
+                    "endOffset": 103392
                 },
                 "from": {
                     "file": "/home/wenhui/Downloads/android-FingerprintDialog/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml",
@@ -7880,9 +7880,9 @@
                 "to": {
                     "startLine": 1263,
                     "startColumn": 4,
-                    "startOffset": 103406,
+                    "startOffset": 103397,
                     "endColumn": 107,
-                    "endOffset": 103509
+                    "endOffset": 103500
                 },
                 "from": {
                     "file": "/home/wenhui/Downloads/android-FingerprintDialog/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml",
@@ -7899,9 +7899,9 @@
                 "to": {
                     "startLine": 1264,
                     "startColumn": 4,
-                    "startOffset": 103514,
+                    "startOffset": 103505,
                     "endColumn": 109,
-                    "endOffset": 103619
+                    "endOffset": 103610
                 },
                 "from": {
                     "file": "/home/wenhui/Downloads/android-FingerprintDialog/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml",
@@ -7918,9 +7918,9 @@
                 "to": {
                     "startLine": 1265,
                     "startColumn": 4,
-                    "startOffset": 103624,
+                    "startOffset": 103615,
                     "endColumn": 111,
-                    "endOffset": 103731
+                    "endOffset": 103722
                 },
                 "from": {
                     "file": "/home/wenhui/Downloads/android-FingerprintDialog/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml",
@@ -7937,10 +7937,10 @@
                 "to": {
                     "startLine": 1266,
                     "startColumn": 4,
-                    "startOffset": 103736,
+                    "startOffset": 103727,
                     "endLine": 1268,
                     "endColumn": 12,
-                    "endOffset": 103906
+                    "endOffset": 103897
                 },
                 "from": {
                     "file": "/home/wenhui/Downloads/android-FingerprintDialog/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml",
@@ -7958,9 +7958,9 @@
                 "to": {
                     "startLine": 1269,
                     "startColumn": 4,
-                    "startOffset": 103911,
+                    "startOffset": 103902,
                     "endColumn": 115,
-                    "endOffset": 104022
+                    "endOffset": 104013
                 },
                 "from": {
                     "file": "/home/wenhui/Downloads/android-FingerprintDialog/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml",
@@ -7977,9 +7977,9 @@
                 "to": {
                     "startLine": 1270,
                     "startColumn": 4,
-                    "startOffset": 104027,
+                    "startOffset": 104018,
                     "endColumn": 85,
-                    "endOffset": 104108
+                    "endOffset": 104099
                 },
                 "from": {
                     "file": "/home/wenhui/Downloads/android-FingerprintDialog/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml",
@@ -7996,9 +7996,9 @@
                 "to": {
                     "startLine": 1271,
                     "startColumn": 4,
-                    "startOffset": 104113,
+                    "startOffset": 104104,
                     "endColumn": 99,
-                    "endOffset": 104208
+                    "endOffset": 104199
                 },
                 "from": {
                     "file": "/home/wenhui/Downloads/android-FingerprintDialog/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml",
@@ -8015,9 +8015,9 @@
                 "to": {
                     "startLine": 1272,
                     "startColumn": 4,
-                    "startOffset": 104213,
+                    "startOffset": 104204,
                     "endColumn": 111,
-                    "endOffset": 104320
+                    "endOffset": 104311
                 },
                 "from": {
                     "file": "/home/wenhui/Downloads/android-FingerprintDialog/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml",
@@ -8034,9 +8034,9 @@
                 "to": {
                     "startLine": 1273,
                     "startColumn": 4,
-                    "startOffset": 104325,
+                    "startOffset": 104316,
                     "endColumn": 66,
-                    "endOffset": 104387
+                    "endOffset": 104378
                 },
                 "from": {
                     "file": "/home/wenhui/Downloads/android-FingerprintDialog/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml",
@@ -8053,9 +8053,9 @@
                 "to": {
                     "startLine": 1274,
                     "startColumn": 4,
-                    "startOffset": 104392,
+                    "startOffset": 104383,
                     "endColumn": 113,
-                    "endOffset": 104501
+                    "endOffset": 104492
                 },
                 "from": {
                     "file": "/home/wenhui/Downloads/android-FingerprintDialog/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml",
@@ -8072,9 +8072,9 @@
                 "to": {
                     "startLine": 1275,
                     "startColumn": 4,
-                    "startOffset": 104506,
+                    "startOffset": 104497,
                     "endColumn": 67,
-                    "endOffset": 104569
+                    "endOffset": 104560
                 },
                 "from": {
                     "file": "/home/wenhui/Downloads/android-FingerprintDialog/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml",
@@ -8091,9 +8091,9 @@
                 "to": {
                     "startLine": 1276,
                     "startColumn": 4,
-                    "startOffset": 104574,
+                    "startOffset": 104565,
                     "endColumn": 115,
-                    "endOffset": 104685
+                    "endOffset": 104676
                 },
                 "from": {
                     "file": "/home/wenhui/Downloads/android-FingerprintDialog/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml",
@@ -8110,9 +8110,9 @@
                 "to": {
                     "startLine": 1277,
                     "startColumn": 4,
-                    "startOffset": 104690,
+                    "startOffset": 104681,
                     "endColumn": 131,
-                    "endOffset": 104817
+                    "endOffset": 104808
                 },
                 "from": {
                     "file": "/home/wenhui/Downloads/android-FingerprintDialog/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml",
@@ -8129,9 +8129,9 @@
                 "to": {
                     "startLine": 1278,
                     "startColumn": 4,
-                    "startOffset": 104822,
+                    "startOffset": 104813,
                     "endColumn": 115,
-                    "endOffset": 104933
+                    "endOffset": 104924
                 },
                 "from": {
                     "file": "/home/wenhui/Downloads/android-FingerprintDialog/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml",
@@ -8148,9 +8148,9 @@
                 "to": {
                     "startLine": 1279,
                     "startColumn": 4,
-                    "startOffset": 104938,
+                    "startOffset": 104929,
                     "endColumn": 68,
-                    "endOffset": 105002
+                    "endOffset": 104993
                 },
                 "from": {
                     "file": "/home/wenhui/Downloads/android-FingerprintDialog/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml",
@@ -8167,9 +8167,9 @@
                 "to": {
                     "startLine": 1280,
                     "startColumn": 4,
-                    "startOffset": 105007,
+                    "startOffset": 104998,
                     "endColumn": 94,
-                    "endOffset": 105097
+                    "endOffset": 105088
                 },
                 "from": {
                     "file": "/home/wenhui/Downloads/android-FingerprintDialog/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml",
@@ -8186,9 +8186,9 @@
                 "to": {
                     "startLine": 1281,
                     "startColumn": 4,
-                    "startOffset": 105102,
+                    "startOffset": 105093,
                     "endColumn": 114,
-                    "endOffset": 105212
+                    "endOffset": 105203
                 },
                 "from": {
                     "file": "/home/wenhui/Downloads/android-FingerprintDialog/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml",
@@ -8205,9 +8205,9 @@
                 "to": {
                     "startLine": 1282,
                     "startColumn": 4,
-                    "startOffset": 105217,
+                    "startOffset": 105208,
                     "endColumn": 112,
-                    "endOffset": 105325
+                    "endOffset": 105316
                 },
                 "from": {
                     "file": "/home/wenhui/Downloads/android-FingerprintDialog/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml",
@@ -8224,9 +8224,9 @@
                 "to": {
                     "startLine": 1283,
                     "startColumn": 4,
-                    "startOffset": 105330,
+                    "startOffset": 105321,
                     "endColumn": 98,
-                    "endOffset": 105424
+                    "endOffset": 105415
                 },
                 "from": {
                     "file": "/home/wenhui/Downloads/android-FingerprintDialog/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml",
@@ -8243,9 +8243,9 @@
                 "to": {
                     "startLine": 1284,
                     "startColumn": 4,
-                    "startOffset": 105429,
+                    "startOffset": 105420,
                     "endColumn": 119,
-                    "endOffset": 105544
+                    "endOffset": 105535
                 },
                 "from": {
                     "file": "/home/wenhui/Downloads/android-FingerprintDialog/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml",
@@ -8262,9 +8262,9 @@
                 "to": {
                     "startLine": 1285,
                     "startColumn": 4,
-                    "startOffset": 105549,
+                    "startOffset": 105540,
                     "endColumn": 121,
-                    "endOffset": 105666
+                    "endOffset": 105657
                 },
                 "from": {
                     "file": "/home/wenhui/Downloads/android-FingerprintDialog/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml",
@@ -8281,9 +8281,9 @@
                 "to": {
                     "startLine": 1286,
                     "startColumn": 4,
-                    "startOffset": 105671,
+                    "startOffset": 105662,
                     "endColumn": 110,
-                    "endOffset": 105777
+                    "endOffset": 105768
                 },
                 "from": {
                     "file": "/home/wenhui/Downloads/android-FingerprintDialog/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml",
@@ -8300,9 +8300,9 @@
                 "to": {
                     "startLine": 1287,
                     "startColumn": 4,
-                    "startOffset": 105782,
+                    "startOffset": 105773,
                     "endColumn": 100,
-                    "endOffset": 105878
+                    "endOffset": 105869
                 },
                 "from": {
                     "file": "/home/wenhui/Downloads/android-FingerprintDialog/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml",
@@ -8319,9 +8319,9 @@
                 "to": {
                     "startLine": 1288,
                     "startColumn": 4,
-                    "startOffset": 105883,
+                    "startOffset": 105874,
                     "endColumn": 104,
-                    "endOffset": 105983
+                    "endOffset": 105974
                 },
                 "from": {
                     "file": "/home/wenhui/Downloads/android-FingerprintDialog/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml",
@@ -8338,9 +8338,9 @@
                 "to": {
                     "startLine": 1289,
                     "startColumn": 4,
-                    "startOffset": 105988,
+                    "startOffset": 105979,
                     "endColumn": 99,
-                    "endOffset": 106083
+                    "endOffset": 106074
                 },
                 "from": {
                     "file": "/home/wenhui/Downloads/android-FingerprintDialog/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml",
@@ -8357,9 +8357,9 @@
                 "to": {
                     "startLine": 1290,
                     "startColumn": 4,
-                    "startOffset": 106088,
+                    "startOffset": 106079,
                     "endColumn": 117,
-                    "endOffset": 106201
+                    "endOffset": 106192
                 },
                 "from": {
                     "file": "/home/wenhui/Downloads/android-FingerprintDialog/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml",
@@ -8376,9 +8376,9 @@
                 "to": {
                     "startLine": 1291,
                     "startColumn": 4,
-                    "startOffset": 106206,
+                    "startOffset": 106197,
                     "endColumn": 90,
-                    "endOffset": 106292
+                    "endOffset": 106283
                 },
                 "from": {
                     "file": "/home/wenhui/Downloads/android-FingerprintDialog/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml",
@@ -8395,9 +8395,9 @@
                 "to": {
                     "startLine": 1292,
                     "startColumn": 4,
-                    "startOffset": 106297,
+                    "startOffset": 106288,
                     "endColumn": 122,
-                    "endOffset": 106415
+                    "endOffset": 106406
                 },
                 "from": {
                     "file": "/home/wenhui/Downloads/android-FingerprintDialog/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml",
@@ -8414,9 +8414,9 @@
                 "to": {
                     "startLine": 1293,
                     "startColumn": 4,
-                    "startOffset": 106420,
+                    "startOffset": 106411,
                     "endColumn": 99,
-                    "endOffset": 106515
+                    "endOffset": 106506
                 },
                 "from": {
                     "file": "/home/wenhui/Downloads/android-FingerprintDialog/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml",
@@ -8433,9 +8433,9 @@
                 "to": {
                     "startLine": 1294,
                     "startColumn": 4,
-                    "startOffset": 106520,
+                    "startOffset": 106511,
                     "endColumn": 103,
-                    "endOffset": 106619
+                    "endOffset": 106610
                 },
                 "from": {
                     "file": "/home/wenhui/Downloads/android-FingerprintDialog/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml",
@@ -8452,9 +8452,9 @@
                 "to": {
                     "startLine": 1295,
                     "startColumn": 4,
-                    "startOffset": 106624,
+                    "startOffset": 106615,
                     "endColumn": 95,
-                    "endOffset": 106715
+                    "endOffset": 106706
                 },
                 "from": {
                     "file": "/home/wenhui/Downloads/android-FingerprintDialog/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml",
@@ -8471,9 +8471,9 @@
                 "to": {
                     "startLine": 1296,
                     "startColumn": 4,
-                    "startOffset": 106720,
+                    "startOffset": 106711,
                     "endColumn": 87,
-                    "endOffset": 106803
+                    "endOffset": 106794
                 },
                 "from": {
                     "file": "/home/wenhui/Downloads/android-FingerprintDialog/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml",
@@ -8490,9 +8490,9 @@
                 "to": {
                     "startLine": 1297,
                     "startColumn": 4,
-                    "startOffset": 106808,
+                    "startOffset": 106799,
                     "endColumn": 105,
-                    "endOffset": 106909
+                    "endOffset": 106900
                 },
                 "from": {
                     "file": "/home/wenhui/Downloads/android-FingerprintDialog/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml",
@@ -8509,9 +8509,9 @@
                 "to": {
                     "startLine": 1298,
                     "startColumn": 4,
-                    "startOffset": 106914,
+                    "startOffset": 106905,
                     "endColumn": 91,
-                    "endOffset": 107001
+                    "endOffset": 106992
                 },
                 "from": {
                     "file": "/home/wenhui/Downloads/android-FingerprintDialog/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml",
@@ -8528,9 +8528,9 @@
                 "to": {
                     "startLine": 1299,
                     "startColumn": 4,
-                    "startOffset": 107006,
+                    "startOffset": 106997,
                     "endColumn": 91,
-                    "endOffset": 107093
+                    "endOffset": 107084
                 },
                 "from": {
                     "file": "/home/wenhui/Downloads/android-FingerprintDialog/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml",
@@ -8547,9 +8547,9 @@
                 "to": {
                     "startLine": 1300,
                     "startColumn": 4,
-                    "startOffset": 107098,
+                    "startOffset": 107089,
                     "endColumn": 113,
-                    "endOffset": 107207
+                    "endOffset": 107198
                 },
                 "from": {
                     "file": "/home/wenhui/Downloads/android-FingerprintDialog/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml",
@@ -8566,9 +8566,9 @@
                 "to": {
                     "startLine": 1301,
                     "startColumn": 4,
-                    "startOffset": 107212,
+                    "startOffset": 107203,
                     "endColumn": 89,
-                    "endOffset": 107297
+                    "endOffset": 107288
                 },
                 "from": {
                     "file": "/home/wenhui/Downloads/android-FingerprintDialog/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml",
@@ -8585,9 +8585,9 @@
                 "to": {
                     "startLine": 1302,
                     "startColumn": 4,
-                    "startOffset": 107302,
+                    "startOffset": 107293,
                     "endColumn": 83,
-                    "endOffset": 107381
+                    "endOffset": 107372
                 },
                 "from": {
                     "file": "/home/wenhui/Downloads/android-FingerprintDialog/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml",
@@ -8604,9 +8604,9 @@
                 "to": {
                     "startLine": 1303,
                     "startColumn": 4,
-                    "startOffset": 107386,
+                    "startOffset": 107377,
                     "endColumn": 53,
-                    "endOffset": 107435
+                    "endOffset": 107426
                 },
                 "from": {
                     "file": "/home/wenhui/Downloads/android-FingerprintDialog/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml",
@@ -8623,9 +8623,9 @@
                 "to": {
                     "startLine": 1304,
                     "startColumn": 4,
-                    "startOffset": 107440,
+                    "startOffset": 107431,
                     "endColumn": 121,
-                    "endOffset": 107557
+                    "endOffset": 107548
                 },
                 "from": {
                     "file": "/home/wenhui/Downloads/android-FingerprintDialog/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml",
@@ -8642,9 +8642,9 @@
                 "to": {
                     "startLine": 1305,
                     "startColumn": 4,
-                    "startOffset": 107562,
+                    "startOffset": 107553,
                     "endColumn": 83,
-                    "endOffset": 107641
+                    "endOffset": 107632
                 },
                 "from": {
                     "file": "/home/wenhui/Downloads/android-FingerprintDialog/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml",
@@ -8661,9 +8661,9 @@
                 "to": {
                     "startLine": 1306,
                     "startColumn": 4,
-                    "startOffset": 107646,
+                    "startOffset": 107637,
                     "endColumn": 119,
-                    "endOffset": 107761
+                    "endOffset": 107752
                 },
                 "from": {
                     "file": "/home/wenhui/Downloads/android-FingerprintDialog/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml",
@@ -8680,10 +8680,10 @@
                 "to": {
                     "startLine": 1307,
                     "startColumn": 4,
-                    "startOffset": 107766,
+                    "startOffset": 107757,
                     "endLine": 1310,
                     "endColumn": 12,
-                    "endOffset": 107957
+                    "endOffset": 107948
                 },
                 "from": {
                     "file": "/home/wenhui/Downloads/android-FingerprintDialog/Application/src/main/res/values/template-styles.xml",
@@ -8701,10 +8701,10 @@
                 "to": {
                     "startLine": 1311,
                     "startColumn": 4,
-                    "startOffset": 107962,
+                    "startOffset": 107953,
                     "endLine": 1316,
                     "endColumn": 12,
-                    "endOffset": 108235
+                    "endOffset": 108226
                 },
                 "from": {
                     "file": "/home/wenhui/Downloads/android-FingerprintDialog/Application/src/main/res/values/template-styles.xml",
