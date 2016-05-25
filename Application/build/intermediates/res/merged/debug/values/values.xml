@@ -232,13 +232,15 @@ This sample demonstrates and supports NDSS 17 paper of registered fingerprints a
         
         
     </string>
-    <string name="item_description_0">Fingerprint Service Request Test:\n\n It starts listening to a fingerprint on the fingerprint sensor by calling
-FingerprintManager.authenticate with a Cipher or fall back to server-side verified password as an authenticator. </string>
-    <string name="item_description_1">Location Service Request Test:\n\n This is a </string>
+    <string name="item_description_0">Fingerprint Service Request Test:\n\n Listens to a fingerprint on the fingerprint sensor by calling
+FingerprintManager.authenticate with a Cipher.</string>
+    <string name="item_description_1">Location Service Request Test:\n\n Get latitude and longitude through GPS. </string>
     <string name="item_price">Wenhui Zhang, Le Guan, Peng Liu</string>
     <string name="item_title_0">Fingerprint Service Request Test</string>
     <string name="item_title_1">Location Service Request Test</string>
+    <string name="latitude_text"/>
     <string name="location_done">Location Requested</string>
+    <string name="longitude_text"/>
     <string name="new_fingerprint_enrolled_description">A new fingerprint was added to this device, so your password is required.</string>
     <string name="ok">Ok</string>
     <string name="password">Password</string>

@@ -1,2 +1,0 @@
-CHANGED,/home/wenhui/Downloads/android-FingerprintDialog/Application/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/example/android/fingerprintdialog/MainActivity$1.class
-CHANGED,/home/wenhui/Downloads/android-FingerprintDialog/Application/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/example/android/fingerprintdialog/MainActivity.class

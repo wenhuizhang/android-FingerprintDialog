@@ -172,7 +172,7 @@
             android:layout_height="wrap_content"
             android:layout_marginLeft="10dp"
             android:layout_marginStart="10dp"
-            android:text="@+id/latitude_text"
+            android:text="@string/latitude_text"
             android:textIsSelectable="true" />
 
         <TextView
@@ -181,8 +181,9 @@
             android:layout_height="wrap_content"
             android:layout_marginLeft="10dp"
             android:layout_marginStart="10dp"
-            android:text="@+id/longitude_text"
+            android:text="@string/longitude_text"
             android:textIsSelectable="true" />
+
 
     </LinearLayout>
 </ScrollView>

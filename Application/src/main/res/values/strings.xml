@@ -31,13 +31,16 @@
     <string name="item_title_0">Fingerprint Service Request Test</string>
     <string name="item_title_1">Location Service Request Test</string>
     <string name="item_price">Wenhui Zhang, Le Guan, Peng Liu</string>
-    <string name="item_description_0">Fingerprint Service Request Test:\n\n It starts listening to a fingerprint on the fingerprint sensor by calling
-FingerprintManager.authenticate with a Cipher or fall back to server-side verified password as an authenticator. </string>
-    <string name="item_description_1">Location Service Request Test:\n\n This is a </string>
+    <string name="item_description_0">Fingerprint Service Request Test:\n\n Listens to a fingerprint on the fingerprint sensor by calling
+FingerprintManager.authenticate with a Cipher.</string>
+    <string name="item_description_1">Location Service Request Test:\n\n Get latitude and longitude through GPS. </string>
     <string name="purchase_done">Fingerprint Request Successful</string>
     <string name="location_done">Location Requested</string>
     <string name="new_fingerprint_enrolled_description">A new fingerprint was added to this device, so your password is required.</string>
     <string name="use_fingerprint_in_future">Use fingerprint in the future</string>
     <string name="use_fingerprint_to_authenticate_title">Use fingerprint to authenticate</string>
     <string name="use_fingerprint_to_authenticate_key" >use_fingerprint_to_authenticate_key</string>
+    <string name="latitude_text"></string>
+    <string name="longitude_text"></string>
+
 </resources>

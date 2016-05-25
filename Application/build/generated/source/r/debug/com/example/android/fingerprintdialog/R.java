@@ -1832,19 +1832,21 @@ containing a value of this type.
         public static final int item_price=0x7f07003c;
         public static final int item_title_0=0x7f07003d;
         public static final int item_title_1=0x7f07003e;
-        public static final int location_done=0x7f07003f;
-        public static final int new_fingerprint_enrolled_description=0x7f070040;
-        public static final int ok=0x7f070041;
-        public static final int password=0x7f070042;
-        public static final int password_description=0x7f070043;
-        public static final int purchase_done=0x7f070044;
-        public static final int request_0=0x7f070045;
-        public static final int request_1=0x7f070046;
-        public static final int sign_in=0x7f070047;
-        public static final int use_fingerprint_in_future=0x7f070048;
-        public static final int use_fingerprint_to_authenticate_key=0x7f070049;
-        public static final int use_fingerprint_to_authenticate_title=0x7f07004a;
-        public static final int use_password=0x7f07004b;
+        public static final int latitude_text=0x7f07003f;
+        public static final int location_done=0x7f070040;
+        public static final int longitude_text=0x7f070041;
+        public static final int new_fingerprint_enrolled_description=0x7f070042;
+        public static final int ok=0x7f070043;
+        public static final int password=0x7f070044;
+        public static final int password_description=0x7f070045;
+        public static final int purchase_done=0x7f070046;
+        public static final int request_0=0x7f070047;
+        public static final int request_1=0x7f070048;
+        public static final int sign_in=0x7f070049;
+        public static final int use_fingerprint_in_future=0x7f07004a;
+        public static final int use_fingerprint_to_authenticate_key=0x7f07004b;
+        public static final int use_fingerprint_to_authenticate_title=0x7f07004c;
+        public static final int use_password=0x7f07004d;
     }
     public static final class style {
         public static final int AppTheme=0x7f0b0067;

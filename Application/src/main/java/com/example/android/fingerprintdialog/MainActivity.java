@@ -143,15 +143,37 @@ public class MainActivity extends Activity {
             public void onClick(View v) {
                 findViewById(R.id.confirmation_message_1).setVisibility(View.GONE);
                 findViewById(R.id.encrypted_message).setVisibility(View.GONE);
-                locationManager = (LocationManager) getSystemService(Context.LOCATION_SERVICE);
-                Location location= locationManager.getLastKnownLocation(LocationManager.GPS_PROVIDER);
-                //Location location=locationManager.requestLocationUpdates(LocationManager.GPS_PROVIDER, 0, 0, this);
 
-                onLocationChanged(location);
+
 
                 if (checkSelfPermission(Manifest.permission.ACCESS_COARSE_LOCATION) != PackageManager.PERMISSION_GRANTED) {
                     requestPermissions(new String[]{Manifest.permission.ACCESS_COARSE_LOCATION},
                             1);   //MY_PERMISSION_ACCESS_COURSE_LOCATION
+                    return;
+                }
+
+                if (checkSelfPermission(Manifest.permission.ACCESS_COARSE_LOCATION) != PackageManager.PERMISSION_GRANTED) {
+                    requestPermissions(new String[]{Manifest.permission.ACCESS_FINE_LOCATION},
+                            1);   //MY_PERMISSION_ACCESS_FINE_LOCATION
+                    return;
+                }
+
+
+
+                locationManager = (LocationManager) getSystemService(Context.LOCATION_SERVICE);
+                Location location= locationManager.getLastKnownLocation(LocationManager.GPS_PROVIDER);
+                //Location location=locationManager.requestLocationUpdates(LocationManager.GPS_PROVIDER, 0, 0, this);
+                if(location != null) {
+                    onLocationChanged(location);
+                } else {
+                    // Getting reference to TextView tv_longitude
+                    TextView tvLongitude = (TextView) findViewById(R.id.latitude_text);
+                    // Getting reference to TextView tv_latitude
+                    TextView tvLatitude = (TextView) findViewById(R.id.longitude_text);
+                    // Setting Current Longitude
+                    tvLongitude.setText("Longitude: none" );
+                    // Setting Current Latitude
+                    tvLatitude.setText("Latitude: none" );
                 }
 
 
